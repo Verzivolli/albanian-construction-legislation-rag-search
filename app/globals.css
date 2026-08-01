@@ -1,0 +1,61 @@
+@import "tailwindcss";
+
+/* Cyanotype / diazo design system (2026-08-01, via /frontend-design).
+   Two real historical print processes, not an arbitrary dark/light pair:
+   cyanotype = white lines on Prussian-blue paper, diazo/blueline = the
+   inverse -- dark lines on cream paper. Same Rebar accent stays constant
+   across both, so it reads as one identity with two states, not two
+   unrelated themes. Toggled via a `data-theme` attribute on <html>,
+   written by components/ThemeToggle.tsx.
+
+   --color-surface / --color-ink are the ONLY tokens that flip -- they're
+   the page-level background/text. Cyanotype/Trace/Rebar/Parchment/
+   Graphite/Steel stay fixed named colors, used where the surface itself
+   is meant to stay constant regardless of theme (e.g. the Rebar user-
+   bubble is dark red in both themes, so its white Trace text never needs
+   to flip). */
+:root,
+[data-theme="dark"] {
+  --color-surface: #1b3a6b; /* page background -- cyanotype blueprint paper */
+  --color-ink: #f4f6f8; /* primary page text on the surface */
+  --color-grid-line: 244, 246, 248; /* rgb triplet for the grid overlay */
+}
+
+[data-theme="light"] {
+  --color-surface: #f2efe8; /* page background -- diazo/blueline paper (cream, cooler than the Parchment card so cards still pop) */
+  --color-ink: #20242b; /* primary page text -- reuses Graphite */
+  --color-grid-line: 27, 58, 107; /* cyanotype-blue tint, the inverse of the dark grid */
+}
+
+:root {
+  --color-cyanotype: #1b3a6b;
+  --color-trace: #f4f6f8;
+  --color-rebar: #c6432e; /* the one accent, constant across both themes */
+  --color-parchment: #ede6d6; /* assistant-answer card surface, constant */
+  --color-graphite: #20242b;
+  --color-steel: #5a6b87; /* secondary/muted text, borders, constant */
+}
+
+@theme inline {
+  --color-surface: var(--color-surface);
+  --color-ink: var(--color-ink);
+  --color-cyanotype: var(--color-cyanotype);
+  --color-trace: var(--color-trace);
+  --color-rebar: var(--color-rebar);
+  --color-parchment: var(--color-parchment);
+  --color-graphite: var(--color-graphite);
+  --color-steel: var(--color-steel);
+  --font-sans: var(--font-plex-sans);
+  --font-mono: var(--font-plex-mono);
+}
+
+body {
+  background-color: var(--color-surface);
+  color: var(--color-ink);
+  /* Faint blueprint grid -- flips color via --color-grid-line so it stays
+     "drafting paper texture" in both themes instead of vanishing or
+     inverting to noise. */
+  background-image:
+    repeating-linear-gradient(0deg, rgba(var(--color-grid-line), 0.05) 0px, rgba(var(--color-grid-line), 0.05) 1px, transparent 1px, transparent 32px),
+    repeating-linear-gradient(90deg, rgba(var(--color-grid-line), 0.05) 0px, rgba(var(--color-grid-line), 0.05) 1px, transparent 1px, transparent 32px);
+}
