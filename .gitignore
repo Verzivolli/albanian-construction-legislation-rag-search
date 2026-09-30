@@ -4,3 +4,4 @@ next-env.d.ts
 *.tsbuildinfo
 .env*
 .vercel
+scripts/try-pipeline.ts

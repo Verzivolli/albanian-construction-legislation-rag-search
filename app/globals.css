@@ -319,3 +319,4 @@ footer.site {
 .suggestion { text-align: left; background: transparent; color: var(--color-ink); border: 1px dashed var(--border); border-radius: 8px; padding: 0.6rem 0.8rem; font: inherit; font-size: 0.9rem; cursor: pointer; }
 .suggestion:hover { border-color: var(--color-accent); }
 .citation-count { color: var(--color-ink-dim); font-weight: 400; margin-left: 0.3rem; }
+.quota-note { max-width: 720px; margin: 0 auto; width: 100%; padding: 0.35rem 1.6rem 0; color: var(--color-ink-dim); font-size: 0.78rem; }

@@ -1,0 +1,13037 @@
+{
+ "built_at": "2026-09-19T16:46:31.205Z",
+ "reviewed": false,
+ "entries": [
+  {
+   "sq": "NDËRTESAT ME PANELE TË MËDHA TË PARAPËRGATITURA PREJ BETONI TË ARMUAR",
+   "en": [
+    "Large prefabricated reinforced concrete panel buildings",
+    "Buildings with large precast reinforced concrete panels"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "FUGAT ANTISIZMIKE",
+   "en": [
+    "Seismic joints",
+    "Antiseismic joints"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "PËRMASAT KUFITARE NË PLAN TË NDËRTESAVE",
+   "en": [
+    "Planar limiting dimensions of buildings",
+    "Limit dimensions in plan of buildings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Profili gjatësor",
+   "en": [
+    "Longitudinal profile",
+    "Longitudinal section"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LLOGARITJA E VESHJEVE TË TUNELEVE",
+   "en": [
+    "Design of tunnel linings",
+    "Calculation of tunnel linings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "PESHAT VËLLIMORE",
+   "en": [
+    "Unit weights",
+    "Densities"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KËNDET E FËRKIMIT TË BRENDSHËM",
+   "en": [
+    "Angles of internal friction"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LËNDËT KRYESORE MBUSHËSE",
+   "en": [
+    "Main backfill materials",
+    "Main fill materials"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Teknika e ndriçimit të brendshëm",
+   "en": [
+    "Interior lighting technique",
+    "Indoor lighting design"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "NGARKESAT E PËRKOHSHME",
+   "en": [
+    "Transient loads",
+    "Live loads",
+    "Temporary loads"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Reklamat",
+   "en": [
+    "Signs",
+    "Billboards"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KOEFICIENTËT E TRANSMETIMIT TË NXEHTËSISË K",
+   "en": [
+    "K heat transmission coefficients",
+    "K thermal transmittance coefficients"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KOMBINIMI I VEPRIMEVE SIZMIKE SIPAS PËRBËRËSVE TË NDRYSHME",
+   "en": [
+    "Combination of seismic actions according to different components"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "VLERËSIMI I EFEKTEVE TË PËRDREDHJES",
+   "en": [
+    "Assessment of torsion effects",
+    "Evaluation of torsional effects"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbishtresa hekurudhore",
+   "en": [
+    "Railway superstructure",
+    "Railway track structure"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "VESHJET E TUNELEVE HIDROTEKNIKE",
+   "en": [
+    "Linings of hydraulic tunnels",
+    "Hydrotechnical tunnel linings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Përcaktimi i sasisë së ujit",
+   "en": [
+    "Determination of water quantity",
+    "Water demand determination"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Materialet dhe detajet ndërtimore për mbrojtjen nga shkarkimet atmosferike",
+   "en": [
+    "Materials and construction details for protection against atmospheric discharges",
+    "Materials and details for lightning protection"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Llojet e tuneleve",
+   "en": [
+    "Types of tunnels",
+    "Tunnel types"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "NJOHURI TË PËRGJITHSHME",
+   "en": [
+    "General knowledge",
+    "General information"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "VETITË FIZIKO-MEKANIKE TË DHERAVE JOSHKËMBORE",
+   "en": [
+    "physico-mechanical properties of non-rocky soils"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "NGARKESAT E PËRKOHSHME TË SHPËRNDARA UNIFORMISHT DHE TË PËRQENDRUARA",
+   "en": [
+    "uniformly distributed and concentrated live loads",
+    "temporary uniformly distributed and concentrated loads"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Teknika e ndriçimit të jashtëm",
+   "en": [
+    "outdoor lighting technique",
+    "exterior lighting engineering"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Zgjedhja e ndriçuesave",
+   "en": [
+    "selection of luminaires",
+    "choice of lighting fixtures"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Klasifikimi i ambienteve",
+   "en": [
+    "classification of spaces",
+    "classification of rooms"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbrojtja nga mbitensionet atmosferike",
+   "en": [
+    "protection against atmospheric overvoltages",
+    "lightning overvoltage protection"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "VEPRAT E NDRYSHME TË SISTEMIT TË FURNIZIMIT ME UJË",
+   "en": [
+    "various structures of the water supply system",
+    "miscellaneous works of the water supply system"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Zbritësit",
+   "en": [
+    "down conductors",
+    "downconductor",
+    "down leads"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "RRUGA NË PROFIL GJATËSOR",
+   "en": [
+    "road in longitudinal profile",
+    "longitudinal section of road"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "FAKTORËT QË NDIKOJNË JETËGJATËSINË E NDËRTESËS OSE TË KONSTRUKSIONIT",
+   "en": [
+    "factors influencing service life of building or structure",
+    "factors affecting durability of building or structure"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "BAZAT E LLOGARITJES",
+   "en": [
+    "basis of calculation",
+    "design basis",
+    "fundamentals of calculation"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndërprerja dhe afrimi me hekurudhat",
+   "en": [
+    "interruption and proximity to railways",
+    "crossing and approach to railways"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Impiantet shpërndarëse dhe nënstacionet deri 10 kV",
+   "en": [
+    "distribution installations and substations up to 10 kV",
+    "switching plants and substations up to 10 kV"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Automatika",
+   "en": [
+    "automation",
+    "control systems"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "NGARKESAT E NORMUARA",
+   "en": [
+    "standardized loads",
+    "nominal loads",
+    "rated loads"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "NGARKESAT SIZMIKE NË ELEMENTËT JOSTRUKTURORË DHE LIDHJET E BASHKIMIT",
+   "en": [
+    "seismic loads on non-structural elements and connection joints",
+    "seismic forces on non-structural elements and connections"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "UDHËZIME PËR PËRCAKTIMIN E KOEFICIENTIT φT NË KONTROLLIN E QËNDRUESHMËRISË SË PËRGJITHSHME TË TRARËVE",
+   "en": [
+    "guidelines for determining coefficient φT in checking overall stability of beams",
+    "instructions for determination of factor φT in verification of lateral torsional buckling of beams"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KONSTRUKSIONET E PARAPËRGATITURA DHE MONOLITE PREJ BETONI TË ARMUAR",
+   "en": [
+    "precast and monolithic reinforced concrete structures",
+    "prefabricated and cast-in-place reinforced concrete structures"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "SHTOJCA III",
+   "en": [
+    "Annex III",
+    "Appendix III"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KOEFICIENTËT E GJATËSISË SË LLOGARITJES TË KOLONAVE",
+   "en": [
+    "effective length factors of columns",
+    "column buckling length coefficients"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "DEZINFEKTIMI DHE AMBIENTET E KLORIFIKIMIT TË UJIT",
+   "en": [
+    "disinfection and chlorination rooms for water",
+    "water disinfection and chlorination facilities"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Stalla për bagëti të imëta",
+   "en": [
+    "small livestock barns",
+    "sheep and goat stables"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndërprerja dhe afrimi me linjat e telekomunikacionit",
+   "en": [
+    "crossing and approach to telecommunication lines",
+    "interruption and proximity to telecom lines"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LLOGARITJA HIDRAULIKE E RRJETIT",
+   "en": [
+    "hydraulic calculation of the network",
+    "network hydraulic analysis"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Shtojca 1",
+   "en": [
+    "Annex 1",
+    "Appendix 1"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Tunelet pa presion",
+   "en": [
+    "free-flow tunnels",
+    "non-pressurized tunnels"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Përkufizime",
+   "en": [
+    "Definitions"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "FUSHA E PËRDORIMIT",
+   "en": [
+    "Scope of application",
+    "Field of use",
+    "scope",
+    "field of application"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "MURET MBAJTËS",
+   "en": [
+    "Retaining walls"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Përcaktimi i ngarkesave dhe kombinimi i tyre",
+   "en": [
+    "Determination of loads and load combinations",
+    "Load definition and combination"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "NORMAT DHE BAZAT E LLOGARITJES SË RRJETIT HIDRAULIK",
+   "en": [
+    "Standards and bases for hydraulic network calculation",
+    "Design codes and fundamentals for hydraulic network analysis"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LLOGARITJA E MUREVE SIPAS FORMIMIT DHE HAPJES SË PLASARITJEVE",
+   "en": [
+    "Wall design for crack formation and cracking",
+    "Calculation of walls according to crack formation and opening"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "RRUGA NË PLANIMETRI",
+   "en": [
+    "Road alignment in plan",
+    "Horizontal road geometry"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "VETITË FIZIKE DHE TERMIKE TË DISA MATERIALEVE TË NDËRTIMIT",
+   "en": [
+    "Physical and thermal properties of some construction materials",
+    "Physical and thermal properties of building materials"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbulesat, variant 2 (hark qeramike)",
+   "en": [
+    "Roofs, variant 2 (ceramic arch)",
+    "Coverings, option 2 (clay tile arch)"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KONSTRUKSIONET E PARANDERURA PREJ BETONI TË ARMUAR",
+   "en": [
+    "Prestressed reinforced concrete structures",
+    "Prestressed concrete constructions"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Instalimet elektrike",
+   "en": [
+    "Electrical installations",
+    "Electrical Installations",
+    "Electric Wiring"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Linjat kabllore",
+   "en": [
+    "Cable lines",
+    "Cable routes"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Impiantet shpërndarëse",
+   "en": [
+    "Distribution plants",
+    "Switchgear installations",
+    "distribution installations",
+    "switchgear installations"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Nënstacionet e mbyllura",
+   "en": [
+    "Indoor substations",
+    "Enclosed substations"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Gjatësitë e llogaritjes të elementeve të konstruksioneve metalike",
+   "en": [
+    "Calculation lengths of steel structural elements",
+    "Effective lengths of steel members"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Përkulshmërisë kufitare",
+   "en": [
+    "Limiting slenderness",
+    "Allowable slenderness"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Depo të prodhimeve bujqësore dhe ushqimore",
+   "en": [
+    "Agricultural and food product stores",
+    "Farm and food storage facilities"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Depozitim pa presion",
+   "en": [
+    "Atmospheric storage",
+    "Non-pressurized storage"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Temperaturat e brendshme për vepra të ndryshme",
+   "en": [
+    "Indoor temperatures for various facilities",
+    "Internal design temperatures for different buildings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Kombinimi i ngarkesave",
+   "en": [
+    "Load combination",
+    "Combination of loads"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbrojtja e objekteve të kategorisë së tretë",
+   "en": [
+    "Protection of third-category structures",
+    "Protection of class III buildings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Trupi i dheut",
+   "en": [
+    "Soil body",
+    "Earth body"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbrojtja nga induksionet",
+   "en": [
+    "Protection against induction",
+    "Induction protection"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Breza antisizmikë",
+   "en": [
+    "Seismic belts",
+    "Antiseismic belts"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Parametrat e nevojshme të ajrit në ndërmarrje industriale",
+   "en": [
+    "Required air parameters in industrial facilities",
+    "Necessary indoor air conditions in industrial plants"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Afrimi me aerodromet",
+   "en": [
+    "Approach to aerodromes",
+    "Aerodrome approach"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Përcjellësit dhe troset",
+   "en": [
+    "Conductors and cables",
+    "Wires and cables"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Konstruksioneve prej çeliku",
+   "en": [
+    "Steel structures"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Elementeve të tyre",
+   "en": [
+    "Their elements",
+    "Steel structural members"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbrojtja nga mbitensionet",
+   "en": [
+    "Overvoltage protection",
+    "Surge protection"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Klasifikimi i objekteve sipas masave për mbrojtjen nga goditjet atmosferike",
+   "en": [
+    "Classification of structures for lightning protection measures",
+    "Object classification by lightning protection"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbulesat",
+   "en": [
+    "Roofs",
+    "Roof coverings",
+    "Coverings",
+    "roofs"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ballkonet",
+   "en": [
+    "Balconies"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Vlerësimi dhe zgjedhja e shesheve të ndërtimit",
+   "en": [
+    "Evaluation and selection of building sites",
+    "Site assessment and selection"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Përcaktimi i trasesë së tuneleve",
+   "en": [
+    "Tunnel alignment determination",
+    "Tunnel route selection"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KATEGORIZIMI I MUREVE MBAJTËS",
+   "en": [
+    "classification of load‑bearing walls",
+    "categorization of bearing walls"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ushqimi i ndriçimit të avarisë",
+   "en": [
+    "emergency lighting supply",
+    "emergency lighting feed"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Armatura",
+   "en": [
+    "reinforcement",
+    "reinforcing steel"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Pjesët metalike të ndërtesave",
+   "en": [
+    "metal parts of buildings",
+    "building metal components"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Tunelet me presion",
+   "en": [
+    "pressure tunnels",
+    "pressurized tunnels"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Stalla për bagëti të trasha",
+   "en": [
+    "cattle stalls",
+    "barns for large livestock"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Tipi i tuneleve",
+   "en": [
+    "tunnel type",
+    "type of tunnels"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Montimi, provat dhe mirëmbajtja e instalimit rrufepritës",
+   "en": [
+    "installation, testing and maintenance of lightning protection system"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Vinçat elektrikë",
+   "en": [
+    "electric cranes",
+    "electrical hoists"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbi ndërtimin e rrjetit të brendshëm të furnizimit me ujë dhe lidhjet",
+   "en": [
+    "construction of internal water supply network and connections",
+    "internal water supply system and connections"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LLOGARITJA E MUREVE SIPAS DEFORMIMIT",
+   "en": [
+    "calculation of walls for deformation",
+    "deformation design of walls"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "VLERËSIMI I INTENSITETIT SIZMIK TË SHESHEVE TË NDËRTIMIT",
+   "en": [
+    "assessment of seismic intensity of construction sites",
+    "seismic intensity evaluation of building sites"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Llojet dhe sistemet e ndriçimit",
+   "en": [
+    "types and systems of lighting",
+    "lighting types and systems"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KËRKESAT KUNDËR ZJARRIT",
+   "en": [
+    "fire safety requirements",
+    "fire protection requirements"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Plani i linjave të stacioneve",
+   "en": [
+    "layout of station lines",
+    "plan of station tracks"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Profili gjatësor mbi ura",
+   "en": [
+    "longitudinal profile of bridges",
+    "bridge longitudinal section"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LARTËSIA E KATIT TË NDËRTESAVE ME MURE MBAJTËS",
+   "en": [
+    "storey height of buildings with load‑bearing walls",
+    "floor height of bearing‑wall buildings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbrojtja nga potencialet e larta dhe masat e mbrojtjes për instalimet elektrike brenda dhe jashtë objektit",
+   "en": [
+    "protection against high potentials and protective measures for electrical installations inside and outside the building"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Llogaritja statike e veshjeve",
+   "en": [
+    "static calculation of linings",
+    "structural design of claddings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Aparatet dhe pajisjet elektrike",
+   "en": [
+    "electrical apparatus and equipment",
+    "electrical devices and equipment"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Kalimi i linjave",
+   "en": [
+    "crossing of lines",
+    "line crossings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "vende të pabanuara",
+   "en": [
+    "uninhabited areas",
+    "unpopulated places"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "zona me klimë të ftohtë",
+   "en": [
+    "cold climate zones",
+    "cold regions",
+    "cold-climate zones",
+    "zones with cold climate"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LARGËSITË NDËRMJET BOSHTEVE TË MUREVE TËRTHORË",
+   "en": [
+    "distances between axes of transverse walls",
+    "spacing of cross-wall axes"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndërprerja e linjave",
+   "en": [
+    "interruption of lines",
+    "line disconnection"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "afrimi i linjave",
+   "en": [
+    "approach of lines",
+    "line proximity"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KATEGORIZIMI I VEPRAVE HIDROTEKNIKE",
+   "en": [
+    "categorization of hydraulic structures",
+    "classification of hydrotechnical works"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "BURIMET E FURNIZIMIT ME UJË",
+   "en": [
+    "water supply sources",
+    "sources of water supply"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Shtyllat",
+   "en": [
+    "poles",
+    "towers",
+    "columns"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KLASIFIKIMI I DHERAVE JOSHKËMBORE",
+   "en": [
+    "classification of non-rocky soils",
+    "classification of cohesive soils",
+    "Classification of Non-Cohesive Soils",
+    "Classification of Cohesionless Soils"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Izolimi",
+   "en": [
+    "insulation",
+    "insulating"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Qarqet sekondare",
+   "en": [
+    "secondary circuits"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LLOGARITJA E SASISË SË NEVOJSHME TË UJIT",
+   "en": [
+    "calculation of required water quantity",
+    "determination of water demand"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Reparte të fabrikave të pasurimit të mineraleve",
+   "en": [
+    "departments of mineral processing plants",
+    "sections of ore beneficiation plants"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Skenat dhe sallat e institucioneve të shfaqjeve publike",
+   "en": [
+    "stages and halls of public performance institutions",
+    "theaters and auditoriums of public entertainment venues"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "REZISTENCA TERMIKE E BOSHLLËKUT TË AJRIT",
+   "en": [
+    "thermal resistance of air gap",
+    "thermal resistance of air space"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "instalimi rrufepritës",
+   "en": [
+    "lightning rod installation",
+    "lightning protection installation"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "nënstacionet e hapura",
+   "en": [
+    "open substations",
+    "outdoor substations"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KËRKESA TË PËRGJITHSHME NDËRTIMORE",
+   "en": [
+    "general construction requirements"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LLOGARITJA E NGARKESAVE",
+   "en": [
+    "calculation of loads",
+    "load calculation"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "VEPRIMET SIZMIKE LLOGARITËSE",
+   "en": [
+    "design seismic actions",
+    "calculated seismic effects"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KATEGORIZIMI I SISTEMEVE TË FURNIZIMIT ME UJË",
+   "en": [
+    "Classification of water supply systems",
+    "Categorization of water supply systems"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndërprerja dhe afrimi me tubacionet nëntokësore",
+   "en": [
+    "Interception and connection to underground pipelines",
+    "Cut-in and approach to underground pipes"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndërprerja e lumenjve dhe liqeneve",
+   "en": [
+    "River and lake intakes",
+    "Stream and lake diversions"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "VLEFTAT E LLOGARITJES TË KOEFICIENTËVE EFEKTIVE TË PËRQËNDRIMIT TË TENSIONEVE β",
+   "en": [
+    "Calculated values of effective stress concentration factors β",
+    "Design values of effective stress concentration coefficients β"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "VLERËSIMI I NGARKESAVE TË ERËS",
+   "en": [
+    "Wind load assessment",
+    "Evaluation of wind loads"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KANALIZIMI I BRENDSHËM",
+   "en": [
+    "Internal sewerage",
+    "Indoor drainage"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KARAKTERISTIKAT E LLOGARITJES SË MATERIALEVE DHE BASHKIMEVE",
+   "en": [
+    "Design characteristics of materials and joints",
+    "Calculation properties of materials and connections"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbrojtja e objekteve të kategorisë së dytë",
+   "en": [
+    "Protection of second-category structures",
+    "Protection of category II facilities"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Plani në linjë të hapur",
+   "en": [
+    "Open-line plan",
+    "Open alignment plan"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KLASIFIKIMI",
+   "en": [
+    "Classification"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "METODAT E LLOGARITJEVE",
+   "en": [
+    "Calculation methods",
+    "Design methods"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "PËRCAKTIMI QË PËRCAKTON VENDOSJEN E KLASËS SË NDËRTIMEVE",
+   "en": [
+    "Determination that defines the assignment of the building class",
+    "Specification that determines the construction class placement"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "REZERVUARËT",
+   "en": [
+    "Reservoirs",
+    "Tanks"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "DISA PËRMASA KUFITARE NË NDËRTESAT ME MURE MBAJTËS",
+   "en": [
+    "Some limiting dimensions in buildings with load-bearing walls",
+    "Certain boundary dimensions in load-bearing wall buildings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "SHKALLËT",
+   "en": [
+    "Stairs",
+    "Staircases"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LLOGARITJA E NGARKESAVE SIZMIKE",
+   "en": [
+    "Seismic load calculation",
+    "Design of seismic loads"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Tensioni",
+   "en": [
+    "Stress",
+    "Tension"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Disa përcaktime",
+   "en": [
+    "Some definitions"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbrojtja e objekteve të kategorisë së parë",
+   "en": [
+    "Protection of first-category structures",
+    "Protection of category I facilities"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "NDËRTESAT ME AMBIENTE SHËRBIMI NË KATIN PËRDHE",
+   "en": [
+    "Buildings with service rooms on the ground floor",
+    "Buildings with service spaces at ground level"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Humbjet e nxehtësisë",
+   "en": [
+    "Heat losses",
+    "Thermal losses"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Skemat e llogaritjes",
+   "en": [
+    "Calculation schemes",
+    "Design schemes"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Vendit të ndërtimit të veprave hidroteknike",
+   "en": [
+    "Site selection for hydraulic structures",
+    "Location of hydraulic works"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Masat konstruktive përkatëse",
+   "en": [
+    "Corresponding structural measures",
+    "Appropriate construction measures"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Profili gjatësor ndër stacione",
+   "en": [
+    "Longitudinal profile between stations",
+    "Interstation longitudinal section"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Pjesa elektrike e ndriçimit të jashtëm",
+   "en": [
+    "Electrical part of outdoor lighting",
+    "Exterior lighting electrical system"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Karakteristika e llogaritjes",
+   "en": [
+    "Calculation characteristic",
+    "Design parameter"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Impiantet me rrezik zjarri",
+   "en": [
+    "Fire hazard installations",
+    "Fire risk plants"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Gjerësia e zonës që zinet nga rruga",
+   "en": [
+    "Width of the road zone",
+    "Roadway width",
+    "Road reserve width"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Format e seksionit tërthor të tuneleve",
+   "en": [
+    "Tunnel cross-section shapes",
+    "Cross-sectional forms of tunnels"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Kontrolli i qëndrueshmërisë së mureve dhe të pllakave të brezave",
+   "en": [
+    "Stability check of walls and belt slabs",
+    "Stability verification of walls and band plates"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Elementet që punojnë në përkulje dhe në shtypje",
+   "en": [
+    "Elements in bending and compression",
+    "Flexural and compressive members"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Tombinot",
+   "en": [
+    "Culverts",
+    "Tombinos"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Klasifikimi i veprave hidroteknike",
+   "en": [
+    "Classification of hydraulic structures",
+    "Classification of waterworks"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Rrjetit të kanalizimit",
+   "en": [
+    "Sewerage network",
+    "Sewage system"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Bashkimet në konstruksionet prej çeliku",
+   "en": [
+    "Joints in steel structures",
+    "Connections in steel constructions"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Zona me klimë të ngrohtë",
+   "en": [
+    "Warm climate zone",
+    "Hot climate region"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbrojtja e linjave dhe shinave",
+   "en": [
+    "Protection of lines and rails",
+    "Line and track protection"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Koeficienti φ i përkuljes gjatësore të elementeve që punojnë në shtypje qendrore",
+   "en": [
+    "Buckling coefficient φ for centrally compressed members",
+    "Slenderness reduction factor φ"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Afrimi me radiostacionet",
+   "en": [
+    "Approach to radio stations",
+    "Proximity to radio stations"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Depo drithi, prodhime bujqësore dhe ushqimore",
+   "en": [
+    "Grain, agricultural products and food storage",
+    "Silos for grain, crops and food"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Depozitim me presion",
+   "en": [
+    "Pressure storage",
+    "Pressurized storage"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Rezervuarët dhe stacionet e pompimit",
+   "en": [
+    "Reservoirs and pumping stations",
+    "Tanks and pumping stations"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Impiantet rrufepritëse",
+   "en": [
+    "Lightning protection systems"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Klasifikimi i makinave dhe i aparateve",
+   "en": [
+    "Classification of machines and apparatus"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "TUNELET",
+   "en": [
+    "Tunnels"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "PUNIMET E DHEUT TË TRUPIT TË RRUGËS",
+   "en": [
+    "Earthworks of the road body"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "kapriata hekur-profil",
+   "en": [
+    "Steel profile trusses"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Përmasa e tubacioneve të rrjetit të brendshëm të furnizimit me ujë",
+   "en": [
+    "Sizing of internal water supply network pipes"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "humbjet e presionit",
+   "en": [
+    "Pressure losses",
+    "Pressure drops"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "NDËRTIMET ME MURE MBAJTËS",
+   "en": [
+    "Load-bearing wall constructions"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LËVIZJA SIZMIKE E TRUALLIT",
+   "en": [
+    "Seismic ground motion",
+    "Seismic soil movement"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "NDRIÇIMI ELEKTRIK",
+   "en": [
+    "Electric lighting"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "SHTRESAT RRUGORE",
+   "en": [
+    "Road layers",
+    "Pavement layers"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KLASIFIKIMI, TIPI DHE LLOJI I TUNELEVE",
+   "en": [
+    "Classification, type and kind of tunnels"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "SUVATIMET DHE VESHJET",
+   "en": [
+    "Plastering and cladding",
+    "Plasters and finishes"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Profili gjatësor ndër kthesa",
+   "en": [
+    "Longitudinal profile in curves"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndërtesat e mbuluara me dhe",
+   "en": [
+    "Earth-covered buildings",
+    "Buried structures"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndërtimet hekurudhore",
+   "en": [
+    "Railway constructions"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Kalimi i linjave në vende të banuara",
+   "en": [
+    "Crossing of lines in built-up areas"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KLASIFIKIMI I NDËRTIMEVE THEMELORE SIPAS JETËGJATËSISË",
+   "en": [
+    "Classification of basic structures by service life"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "RRUGËT AUTOMOBILISTIKE",
+   "en": [
+    "Motorways",
+    "Highways",
+    "Automobile roads"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Rrufepritësit",
+   "en": [
+    "Lightning rods",
+    "Lightning conductors"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KRYQËZIMET",
+   "en": [
+    "Crossings",
+    "Intersections"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbrojtja nga goditjet e drejtpërdrejta të rrufesë",
+   "en": [
+    "Protection against direct lightning strikes",
+    "Direct lightning strike protection"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndërprerja dhe afrimi me tubacionet mbitokësore dhe me teleferikët",
+   "en": [
+    "Interruption and proximity of overhead pipelines and cableways",
+    "Clearance and approach of overhead pipelines and aerial tramways"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Përcaktimi i deformimeve për shkak të veprimit sizmik dhe kufizimi i tyre",
+   "en": [
+    "Determination of deformations due to seismic action and their limitation"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Elementet teknike të rrugëve",
+   "en": [
+    "Technical elements of roads",
+    "Road design elements"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Tokëzimi",
+   "en": [
+    "Grounding",
+    "Earthing"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Reparte të ndryshme mekanike",
+   "en": [
+    "Various mechanical departments",
+    "Mechanical workshops"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Vendosja e përcjellësve dhe troseve",
+   "en": [
+    "Placement of conductors and cables",
+    "Routing of conductors and wires"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndriçimi i objekteve të artit dhe ndriçimi festiv",
+   "en": [
+    "Lighting of art objects and festive lighting",
+    "Art monument lighting and holiday illumination"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Dimensionimi i rrjetit të brendshëm të kanalizimit",
+   "en": [
+    "Sizing of the internal sewer network",
+    "Design of the internal drainage system"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Koeficienti i transmetimit të nxehtësisë në mbulesat e konstruksioneve",
+   "en": [
+    "Heat transmission coefficient of structural covers",
+    "Thermal transmittance of building envelope components"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Udhëzime plotësuese për projektimin e konstruksioneve prej çeliku të godinave dhe vepra industriale që ndodhen në kushte veçanërisht të rënda shfrytëzimi",
+   "en": [
+    "Supplementary guidelines for the design of steel structures of buildings and industrial works in particularly severe service conditions"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Pjesa elektrike",
+   "en": [
+    "Electrical part",
+    "Electrical section"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Llogaritja e elementeve të konstruksioneve prej çeliku në tërheqje qendrore, shtypje qendrore dhe në përkulje",
+   "en": [
+    "Calculation of steel structural elements in central tension, central compression, and bending"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Trasimi i rrugëve",
+   "en": [
+    "Road alignment",
+    "Road routing"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Klasifikimi i tuneleve",
+   "en": [
+    "Classification of tunnels"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Kombinimi i faktorëve që u përgjigjen formave të ndryshme të lëkundjeve (për një drejtim të caktuar të veprimit sizmik)",
+   "en": [
+    "Combination of factors corresponding to different vibration modes (for a given direction of seismic action)"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndërtesat me mure mbajtës me konstruksion kompleks",
+   "en": [
+    "Buildings with load-bearing walls of complex construction"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbrojtja e makinave rrotulluese që punojnë në linjat ajrore",
+   "en": [
+    "Protection of rotating machinery operating on overhead lines"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Bazat për projektimin e impianteve rrufepritëse",
+   "en": [
+    "Basis for the design of lightning protection installations"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Cilësia e ujit",
+   "en": [
+    "Water quality"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "objektet e naftës dhe të gazit",
+   "en": [
+    "oil and gas facilities",
+    "oil and gas installations"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Mbrojtja e transformatorëve të fuqisë me bobinë të tensionit të lartë mbi 1000 V",
+   "en": [
+    "protection of power transformers with high-voltage windings above 1000 V",
+    "protection of power transformers with HV windings above 1000 V"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "përcaktime",
+   "en": [
+    "definitions",
+    "determinations"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "MURET JOMBAJTËS DHE VETËMBAJTËS NË NDËRTESAT ME SKELET",
+   "en": [
+    "non-load-bearing and self-supporting walls in frame buildings",
+    "non-bearing and self-supporting walls in skeletal buildings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KONSTRUKSIONET PREJ ÇELIKU",
+   "en": [
+    "steel structures",
+    "steel constructions"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LARTËSITË KUFITARE",
+   "en": [
+    "limit heights",
+    "maximum heights"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "NUMURI KUFITAR I KATEVE TË NDËRTESAVE",
+   "en": [
+    "maximum number of storeys",
+    "limit number of storeys"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Kushtet klimatike",
+   "en": [
+    "climatic conditions",
+    "climate conditions"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "KOMBINIMI I VEPRIMEVE SIZMIKE ME VEPRIME TË TJERA",
+   "en": [
+    "combination of seismic actions with other actions",
+    "combination of seismic loads with other loads"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "prurjeve llogaritëse",
+   "en": [
+    "design discharges",
+    "design flow rates",
+    "design flows"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LLOGARITJET HIDRAULIKE TË SEKSIONIT TËRTHOR TË TUNELEVE",
+   "en": [
+    "hydraulic calculations of tunnel cross-section",
+    "hydraulic design of tunnel cross-section"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndriçuesit elektrikë",
+   "en": [
+    "electric luminaires",
+    "electric lighting fixtures",
+    "electric light fittings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "TRUPI PREJ DHEU DHE NDËRTIMI I PJESËS KALUESE TË RRUGËS",
+   "en": [
+    "earth body and construction of the road pavement",
+    "earthwork and pavement construction",
+    "subgrade and road pavement construction"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "FURNIZIMI I BRENDSHËM ME UJË",
+   "en": [
+    "indoor water supply",
+    "internal water supply",
+    "building water supply"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "THEMELET",
+   "en": [
+    "foundations",
+    "footings"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "HUMBJET SUPLEMENTARE TË NXEHTËSISË",
+   "en": [
+    "additional heat losses",
+    "supplementary heat losses",
+    "extra heat losses"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "TEMPERATURA LLOGARITËSE PËR QYTETE TË NDRYSHME",
+   "en": [
+    "design temperatures for different cities",
+    "design temperatures for various cities"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Ndërprerja dhe afrimi me rrugët automobilistike",
+   "en": [
+    "intersections and access to highways",
+    "junctions and approaches to roads",
+    "interchanges and access to motorways"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LLOGARITJA E NDËRTESAVE ME MURE MBAJTËS ME KONSTRUKSION KOMPLEKS DHE JOKOMPLEKS",
+   "en": [
+    "design of buildings with load-bearing walls of complex and non-complex construction",
+    "analysis of buildings with bearing walls of complex and simple construction"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Burimet e dritës",
+   "en": [
+    "light sources",
+    "lighting sources"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "ARKITRARËT",
+   "en": [
+    "Architraves",
+    "Lintels"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LLOGARITJA E MUREVE",
+   "en": [
+    "Design of Walls",
+    "Calculation of Walls"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "Makinat elektrike",
+   "en": [
+    "Electrical Machines",
+    "Electric Machinery"
+   ],
+   "source": "section"
+  },
+  {
+   "sq": "LLOGARITJA E RRJETIT TË BRENDSHËM TË FURNIZIMIT ME UJË",
+   "en": [
+    "Design of Internal Water Supply Network",
+    "Calculation of Internal Water Supply System"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "KANALIZIMET",
+   "en": [
+    "Sewerage",
+    "Drainage"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "INSTALIMET E NDRIÇIMIT",
+   "en": [
+    "Lighting Installations",
+    "Lighting Systems"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "VEPRAT EKONOMIKE E SHOQËRORE",
+   "en": [
+    "Economic and Social Buildings",
+    "Public and Commercial Facilities"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "AMBIENTET ME RREZIK ZJARRI",
+   "en": [
+    "Fire-Hazardous Areas",
+    "Fire-Risk Premises"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "MBROJTJA NGA SHKARKIMET ATMOSFERIKE",
+   "en": [
+    "Protection Against Atmospheric Discharges",
+    "Lightning Protection"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "MBROJTJA RELE DHE AUTOMATIKE",
+   "en": [
+    "Relay and Automatic Protection",
+    "Protective Relaying and Automatic Control"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "LINJAT AJRORE TË TENSIONIT TË LARTË",
+   "en": [
+    "Overhead High-Voltage Lines",
+    "High-Voltage Overhead Transmission Lines"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "NËNSTACIONET ME TENSION MBI 1000 V",
+   "en": [
+    "Substations Above 1000 V",
+    "High-Voltage Substations (>1 kV)"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "KUSHTET TEKNIKE TË PROJEKTIMIT TË HEKURUDHAVE",
+   "en": [
+    "Technical Design Conditions for Railways",
+    "Technical Specifications for Railway Design"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "KATEGORIZIMI DHE KLASIFIKIMI I VEPRAVE HIDROTEKNIKE",
+   "en": [
+    "Categorization and Classification of Hydraulic Structures",
+    "Classification of Hydrotechnical Works"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "BAZAMENT PËR VEPRAT INXHINIERIKE",
+   "en": [
+    "Foundation for Engineering Works",
+    "Subgrade for Engineering Structures"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "PËRCAKTIMI I NGARKESËS SË ERËS",
+   "en": [
+    "Determination of Wind Load",
+    "Calculation of Wind Loading"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "PËRCAKTIMI I NGARKESËS SË DËBORËS",
+   "en": [
+    "Determination of Snow Load",
+    "Calculation of Snow Loading"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "LLOGARITJA E MUREVE DHE E THEMELEVE",
+   "en": [
+    "Design of Walls and Foundations",
+    "Calculation of Walls and Footings"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "TEORIA E GJENDJES KUFITARE",
+   "en": [
+    "Limit State Theory",
+    "Ultimate Limit State Design"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "KLASIFIKIMI I VEPRAVE EKONOMIKE E SHOQËRORE",
+   "en": [
+    "Classification of Economic and Social Buildings",
+    "Classification of Public and Commercial Facilities"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "KRITERE PROJEKTIMI PËR VEPRAT E INDUSTRISË MEKANIKE",
+   "en": [
+    "Design Criteria for Mechanical Industry Facilities",
+    "Design Criteria for Mechanical Engineering Works"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "PASURIMIT TË MINERALEVE",
+   "en": [
+    "Mineral Processing",
+    "Ore Dressing"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "DEPOVE DHE STALLAVE",
+   "en": [
+    "Warehouses and Stables",
+    "Storage Facilities and Barns"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "KUSHT TEKNIK PROJEKTIMI PËR NDËRTIMET ANTISIZMIKE",
+   "en": [
+    "Technical Design Code for Antiseismic Construction",
+    "Technical Specification for Earthquake-Resistant Design"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "URAT DHE TOMBINOT PREJ BETONI DHE BETON-ARMEJE",
+   "en": [
+    "Concrete and Reinforced Concrete Bridges and Culverts",
+    "Bridges and Culverts of Concrete and Reinforced Concrete"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "HEKURUDHAT",
+   "en": [
+    "Railways",
+    "Railroad Structures"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "Urat dhe tombinot prej betoni dhe betonarmeje",
+   "en": [
+    "concrete and reinforced concrete bridges and culverts",
+    "bridges and culverts of concrete and reinforced concrete"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "Tunelet hidroteknike",
+   "en": [
+    "hydraulic tunnels",
+    "water-conveyance tunnels"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "Kushtet teknike të projektimit",
+   "en": [
+    "design technical conditions",
+    "technical specifications for design"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "Përcaktimi i ngarkesave",
+   "en": [
+    "determination of loads",
+    "load determination"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "Rrjeti i jashtëm i furnizimit me ujë",
+   "en": [
+    "external water-supply network",
+    "outdoor water distribution network"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "Sistemet e ngrohjes qendrore dhe të ajrimit",
+   "en": [
+    "central heating and ventilation systems"
+   ],
+   "source": "document"
+  },
+  {
+   "sq": "Muratura",
+   "en": [
+    "masonry"
+   ],
+   "source": "topic"
+  },
+  {
+   "sq": "Veprat dhe ndërtesat ekonomike e shoqërore",
+   "en": [
+    "economic and social structures and buildings",
+    "economic and public buildings"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Vepra transporti",
+   "en": [
+    "transport structures",
+    "transportation works"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Vepra hidroteknike",
+   "en": [
+    "hydraulic structures"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Koeficienti i strukturës",
+   "en": [
+    "structure coefficient",
+    "structural coefficient"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Formulat e përcaktimit",
+   "en": [
+    "determination formulas",
+    "formulas for determining"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Koeficienti dhe drejtimi i forcës sizmike",
+   "en": [
+    "seismic force coefficient and direction",
+    "coefficient and direction of seismic force"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Kollonat monolite të ramave prej betoni të armuar",
+   "en": [
+    "monolithic columns of reinforced concrete frames",
+    "monolithic reinforced-concrete frame columns"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Trarë dhe rigela monolitë të ramave prej betoni të armuar",
+   "en": [
+    "monolithic beams and girders of reinforced concrete frames"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Diafragmat vertikale monolite prej betoni të armuar",
+   "en": [
+    "monolithic vertical diaphragms of reinforced concrete",
+    "monolithic reinforced-concrete shear walls"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Lartësia minimale e vendosjes së ndriçuesave",
+   "en": [
+    "minimum mounting height of luminaires",
+    "minimum installation height of lighting fixtures"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Lartësia minimale e varjes e ndriçuesave të përgjithshëm me llamba fluoreshente",
+   "en": [
+    "minimum suspension height of general fluorescent luminaires",
+    "minimum hanging height of general fluorescent lighting fixtures"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Lartësia minimale e varjes mbi dysheme të ndriçuesave me llamba me avuj zhive nën presion të lartë",
+   "en": [
+    "Minimum mounting height of high-pressure mercury vapor luminaires",
+    "Minimum suspension height above floor for high-pressure mercury vapor lamps"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Koeficienti i rezervës",
+   "en": [
+    "Maintenance factor",
+    "Reserve coefficient"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "ndriçimin në ambientet e prodhimit",
+   "en": [
+    "Lighting in production areas",
+    "Industrial lighting"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Klasifikimi i objekteve të shikimit sipas grupeve",
+   "en": [
+    "Classification of visual tasks by groups",
+    "Classification of objects of vision"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Vleftat minimale të ndriçimit të përgjithshëm në ndërtesat e banimit e shoqërore",
+   "en": [
+    "Minimum general lighting levels in residential and public buildings",
+    "Minimum illuminance for general lighting in residential and public buildings"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Normat e ndriçimit artificial në industri",
+   "en": [
+    "Artificial lighting standards in industry",
+    "Industrial artificial lighting norms"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Normat e ndriçimit të vendit të punës në ambiente të hapura",
+   "en": [
+    "Lighting standards for outdoor workplaces",
+    "Outdoor workplace illuminance norms"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "norma e ndriçimit të territorit të ndërmarrjeve industriale dhe të stacioneve të linjave hekurudhore",
+   "en": [
+    "Lighting standard for industrial enterprise grounds and railway station areas",
+    "Illuminance of industrial sites and railway station premises"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "norma e ndriçimit të rrugëve dhe të shesheve sipas intensitetit të lëvizjes",
+   "en": [
+    "Lighting standard for roads and squares by traffic intensity",
+    "Road and square illuminance based on traffic volume"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "norma e ndriçimit të terreneve të hapura sportive",
+   "en": [
+    "Lighting standard for outdoor sports fields",
+    "Illuminance of open sports grounds"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "norma e ndriçimit për përgatitje armaturash metalike në sheshe të hapura",
+   "en": [
+    "Lighting standard for preparation of steel reinforcement in open yards",
+    "Illuminance for rebar preparation in outdoor areas"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "norma e ndriçimit në punime përgatitore para dhe gjatë betonimit",
+   "en": [
+    "Lighting standard for preparatory works before and during concreting",
+    "Illuminance for pre-concreting and concreting operations"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "norma e ndriçimit në nyjet e përgatitjes së betonit",
+   "en": [
+    "Lighting standard in concrete batching plants",
+    "Illuminance at concrete mixing nodes"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Lartësia minimale e varjes të ndriçuesave të ndriçimit të përgjithshëm",
+   "en": [
+    "Minimum hanging height of general lighting fixtures",
+    "Minimum suspension height of general luminaires"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Lartësia minimale e vendosjes së ndriçuesave për ndriçimin e rrugëve",
+   "en": [
+    "Minimum mounting height of luminaires for road lighting",
+    "Minimum installation height of street lighting fixtures"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Ndriçimi mesatar në planin e mallrave",
+   "en": [
+    "Average illuminance on goods plane",
+    "Average illumination on cargo plane"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Lartësia minimale e vendosjes së burimeve të dritës për reklamat me dritë",
+   "en": [
+    "Minimum mounting height of light sources for illuminated advertisements",
+    "Minimum installation height of light sources for luminous advertising"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Koeficienti i rritjes së shpejtësisë së erës sipas lartësisë",
+   "en": [
+    "Height coefficient of wind speed increase",
+    "Wind speed height coefficient",
+    "Height factor for wind speed increase"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Dendësia ekonomike e rrymës",
+   "en": [
+    "Economic current density"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Karakteristikat fiziko-mekanike të përcjellësve dhe troseve",
+   "en": [
+    "Physical and mechanical characteristics of conductors and cables",
+    "Physico-mechanical properties of conductors and wires"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Tensionet e lejuara në përcjellës dhe tros",
+   "en": [
+    "Allowable stresses in conductors and cables",
+    "Permissible tensions in conductors and wires"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Bashkërendimi i trosit me përcjellësin",
+   "en": [
+    "Coordination of cable with conductor",
+    "Cable-to-conductor coordination"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësitë më të vogla ndërmjet përcjellësve të vendosur horizontalisht",
+   "en": [
+    "Minimum horizontal spacings between conductors",
+    "Minimum distances between horizontally placed conductors"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Zhvendosja më e vogël horizontale e përcjellësve në shtyllë",
+   "en": [
+    "Minimum horizontal displacement of conductors on pole",
+    "Minimum horizontal offset of conductors on pole"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësitë më të vogla ndërmjet përcjellësve të linjave deri 35 KV",
+   "en": [
+    "Minimum spacings between conductors of lines up to 35 kV",
+    "Minimum distances between conductors of lines up to 35 kV"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësia ndërmjet përcjellësve të vendosur horizontalisht",
+   "en": [
+    "Spacing between horizontally placed conductors",
+    "Distance between horizontally positioned conductors"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Tensionet e shkarkimit të izolatorëve",
+   "en": [
+    "Flashover voltages of insulators",
+    "Discharge voltages of insulators"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësitë ajrore izoluese më të vogla ndërmjet pjesëve nën tension dhe pjesëve të tokëzuara",
+   "en": [
+    "Minimum air clearance distances between live parts and earthed parts",
+    "Minimum insulating air gaps between live parts and grounded parts"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësitë më të vogla ndërmjet fazave të linjave ajrore",
+   "en": [
+    "Minimum phase spacing of overhead lines",
+    "Minimum distances between phases of overhead lines"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Rezistencat e tokëzimit të shtyllave të linjave ajrore",
+   "en": [
+    "Grounding resistances of overhead line poles",
+    "Earth resistance of overhead line towers"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësitë më të vogla nga përcjellësit e linjës ajrore deri në sipërfaqen e ujit",
+   "en": [
+    "Minimum clearances from overhead line conductors to water surface",
+    "Minimum distances from overhead line conductors to water surface"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësitë vertikale më të vogla ndërmjet përcjellësve të linjave ajrore që ndërpriten",
+   "en": [
+    "Minimum vertical clearances between conductors of crossing overhead lines",
+    "Minimum vertical distances between conductors of intersecting overhead lines"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësitë më të vogla ndërmjet përcjellësve të linjave ajrore të tensionit të lartë dhe përcjellësve të linjave të telekomunikacionit",
+   "en": [
+    "Minimum clearances between high-voltage overhead line conductors and telecommunication line conductors",
+    "Minimum distances between high-voltage overhead line conductors and communication line conductors"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësitë më të vogla të kabllove të telekomunikacionit nga tokëzimi i shtyllave",
+   "en": [
+    "minimum clearances of telecom cables from tower grounding",
+    "minimum distances of telecommunication cables from pole grounding"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "tokëzimi i shtyllave të linjave ajrore të tensionit të lartë",
+   "en": [
+    "grounding of high-voltage overhead line poles",
+    "earthing of high-voltage transmission line towers"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësitë më të vogla të linjave ajrore të tensionit të lartë nga antenat e radiostacioneve dhënës",
+   "en": [
+    "minimum clearances of high-voltage overhead lines from transmitting station antennas",
+    "minimum distances of high-voltage transmission lines from broadcast transmitting antennas"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësitë më të vogla të linjave ajrore të tensionit të lartë nga radiostacionet marrëse",
+   "en": [
+    "minimum clearances of high-voltage overhead lines from receiving stations",
+    "minimum distances of high-voltage transmission lines from radio receiving stations"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "ndërprerjet dhe afrimet e linjave ajrore të tensionit të lartë me hekurudhat",
+   "en": [
+    "crossings and approaches of high-voltage overhead lines to railways",
+    "clearances and proximity of high-voltage transmission lines to railroads"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Largësitë më të vogla të linjave ajrore të tensionit të lartë nga rrugët automobilistike",
+   "en": [
+    "minimum clearances of high-voltage overhead lines from highways",
+    "minimum distances of high-voltage transmission lines from roadways"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Pjerrësia udhëheqëse",
+   "en": [
+    "guiding gradient",
+    "ruling gradient",
+    "controlling grade"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Gjatësia minimale e elementeve të profilit gjatësor",
+   "en": [
+    "minimum length of longitudinal profile elements",
+    "minimum length of grade line segments"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "pjerrësitë udhëheqëse të drejtimit me ngarkesë",
+   "en": [
+    "ruling gradients in the loaded direction",
+    "controlling grades in the haul direction"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Koeficienti që shumëzohet në pjerrësinë më të madhe",
+   "en": [
+    "coefficient multiplied by the maximum gradient",
+    "factor applied to the steepest grade"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Gjatësia e kurbës parabolike",
+   "en": [
+    "length of parabolic curve",
+    "parabolic curve length"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Drejtëza minimale",
+   "en": [
+    "minimum tangent length",
+    "minimum straight length"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Gjerësia e kurorës së trupit të dheut",
+   "en": [
+    "width of embankment crown",
+    "width of earthwork crest"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Zgjerimi i kurorës",
+   "en": [
+    "crown widening",
+    "crest widening",
+    "top widening"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Pjerrësia e skarpateve në gërmime",
+   "en": [
+    "slope of excavation faces",
+    "cut slope",
+    "excavation side slope"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Pjerrësia e skarpatës në mbushje",
+   "en": [
+    "fill slope",
+    "embankment side slope",
+    "fill side slope"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Pjerrësia e skarpatës për mbushje me gurë",
+   "en": [
+    "rock fill slope",
+    "slope for rubble embankment",
+    "stone fill slope"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Treguesit e dendësisë së lëvizjeve në rrugët automobilistike",
+   "en": [
+    "traffic density indicators on highways",
+    "traffic intensity measures on roadways"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Tabela e elementeve të leqeve",
+   "en": [
+    "table of arch elements",
+    "table of bridge arch components",
+    "arch element schedule"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Lartësia e skarpatës në mbushje për toka të ndryshme të veprave të artit të përhershme",
+   "en": [
+    "fill slope height for various soils of permanent structures",
+    "height of embankment side slope for different soil types in permanent works"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Pjerrësia e skarpatave në gërmimet për veprat e artit të përhershme prej dheu",
+   "en": [
+    "excavation slope for permanent earth structures",
+    "cut slope for permanent earthworks",
+    "side slope in excavations for permanent earth structures"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Tipet kryesore të mbulesave të rrugës",
+   "en": [
+    "main types of road pavements",
+    "principal types of road surface layers",
+    "basic road covering types"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Klasës së tuneleve hidroteknike",
+   "en": [
+    "class of hydraulic tunnels",
+    "classification of hydraulic tunnels"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Seksionit tërthor të tuneleve pa presion",
+   "en": [
+    "cross-section of free-flow tunnels",
+    "non-pressure tunnel cross-section"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Hapësirës së dritës",
+   "en": [
+    "clear span",
+    "clear opening"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Seksioneve tërthore të tuneleve",
+   "en": [
+    "tunnel cross-sections",
+    "cross-sections of tunnels"
+   ],
+   "source": "table"
+  },
+  {
+   "sq": "Koeficienti i ashpërsisë",
+   "en": [
+    "roughness coefficient",
+    "coefficient of roughness"
+   ],
+   "source": "table"
+  }
+ ],
+ "words": [
+  {
+   "sq": "duhet",
+   "en": [
+    "must",
+    "should",
+    "is required"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sipas",
+   "en": [
+    "according to",
+    "per"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kushtet",
+   "en": [
+    "conditions",
+    "terms"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "teknike",
+   "en": [
+    "technical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertimet",
+   "en": [
+    "constructions",
+    "buildings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "projektimi",
+   "en": [
+    "design",
+    "projecting"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "projektimit",
+   "en": [
+    "of design",
+    "design"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tabela",
+   "en": [
+    "table"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "merret",
+   "en": [
+    "is taken",
+    "is considered"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veprat",
+   "en": [
+    "works",
+    "structures"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "eshte",
+   "en": [
+    "is"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kusht",
+   "en": [
+    "condition",
+    "requirement"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbrojtja",
+   "en": [
+    "protection",
+    "safety"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "behet",
+   "en": [
+    "is made",
+    "is done",
+    "is carried out"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "konstruksionet",
+   "en": [
+    "structures",
+    "constructions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "teknik",
+   "en": [
+    "technical",
+    "engineer"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "antisizmike",
+   "en": [
+    "seismic",
+    "earthquake-resistant"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "instalimet",
+   "en": [
+    "installations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kapitulli",
+   "en": [
+    "chapter"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogaritja",
+   "en": [
+    "calculation",
+    "computation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "parasysh",
+   "en": [
+    "account",
+    "consideration"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "larte",
+   "en": [
+    "high",
+    "tall"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "linjat",
+   "en": [
+    "lines",
+    "circuits"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "celiku",
+   "en": [
+    "steel"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tensionit",
+   "en": [
+    "voltage",
+    "tension"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lejohet",
+   "en": [
+    "is allowed",
+    "permitted"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "koeficienti",
+   "en": [
+    "coefficient",
+    "factor"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ekonomike",
+   "en": [
+    "economic",
+    "economical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "konstruksioneve",
+   "en": [
+    "of structures",
+    "structural"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vogel",
+   "en": [
+    "small",
+    "minor"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogaritjes",
+   "en": [
+    "of calculation",
+    "calculation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndricimit",
+   "en": [
+    "of lighting",
+    "illumination"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shume",
+   "en": [
+    "much",
+    "many",
+    "very"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pergjithshme",
+   "en": [
+    "general",
+    "common"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "elementeve",
+   "en": [
+    "of elements",
+    "elements"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ajrore",
+   "en": [
+    "aerial",
+    "overhead"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "madhe",
+   "en": [
+    "large",
+    "major"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjate",
+   "en": [
+    "long",
+    "during"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertesave",
+   "en": [
+    "of buildings",
+    "building"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "industriale",
+   "en": [
+    "industrial"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ngarkesave",
+   "en": [
+    "of loads",
+    "loads"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vetem",
+   "en": [
+    "only",
+    "alone"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "merren",
+   "en": [
+    "are taken",
+    "are considered"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndermjet",
+   "en": [
+    "between",
+    "among"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hidroteknike",
+   "en": [
+    "hydrotechnical",
+    "hydraulic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perdoren",
+   "en": [
+    "are used",
+    "are applied"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shoqerore",
+   "en": [
+    "social",
+    "public"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "elektrik",
+   "en": [
+    "electric",
+    "electrical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ambienteve",
+   "en": [
+    "of rooms",
+    "of spaces",
+    "environments"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tjera",
+   "en": [
+    "other",
+    "others"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "betoni",
+   "en": [
+    "concrete"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shenim",
+   "en": [
+    "note",
+    "remark"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndricimi",
+   "en": [
+    "lighting",
+    "illumination"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brendshem",
+   "en": [
+    "internal",
+    "indoor"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vendosen",
+   "en": [
+    "are placed",
+    "are installed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjitha",
+   "en": [
+    "all",
+    "every"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tabeles",
+   "en": [
+    "of the table"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "udhezime",
+   "en": [
+    "instructions",
+    "guidelines"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "atmosferike",
+   "en": [
+    "atmospheric"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kufitare",
+   "en": [
+    "limit",
+    "boundary"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertesat",
+   "en": [
+    "buildings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ngarkesat",
+   "en": [
+    "loads"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mureve",
+   "en": [
+    "of walls",
+    "walls"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "automobilistike",
+   "en": [
+    "road",
+    "traffic",
+    "automotive"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "elementet",
+   "en": [
+    "elements",
+    "members"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hekurudhore",
+   "en": [
+    "railway",
+    "rail"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percaktohet",
+   "en": [
+    "is determined",
+    "is specified"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vecanta",
+   "en": [
+    "special",
+    "particular"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veprave",
+   "en": [
+    "of works",
+    "of structures"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "elektrike",
+   "en": [
+    "electrical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percaktimi",
+   "en": [
+    "determination",
+    "definition"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vertikale",
+   "en": [
+    "vertical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "medha",
+   "en": [
+    "large",
+    "big"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kryesore",
+   "en": [
+    "main",
+    "principal"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogaritese",
+   "en": [
+    "computational",
+    "calculation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtypje",
+   "en": [
+    "pressure",
+    "compression"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "jashtem",
+   "en": [
+    "external",
+    "outdoor"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndryshme",
+   "en": [
+    "different",
+    "various"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tabelen",
+   "en": [
+    "the table"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "klasifikimi",
+   "en": [
+    "classification",
+    "rating"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "horizontale",
+   "en": [
+    "horizontal",
+    "lateral"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkarkimet",
+   "en": [
+    "discharges",
+    "releases"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "automatike",
+   "en": [
+    "automatic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rruget",
+   "en": [
+    "roads",
+    "routes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "raste",
+   "en": [
+    "cases",
+    "instances"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sizmike",
+   "en": [
+    "seismic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "banimit",
+   "en": [
+    "residential",
+    "dwelling"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hekurudhave",
+   "en": [
+    "railways"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "referuar",
+   "en": [
+    "referred",
+    "referenced"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "punes",
+   "en": [
+    "work",
+    "operation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kategorise",
+   "en": [
+    "category"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lartesia",
+   "en": [
+    "height",
+    "elevation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "linjave",
+   "en": [
+    "lines",
+    "routes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "armuar",
+   "en": [
+    "reinforced",
+    "armored"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "cilat",
+   "en": [
+    "which"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kushte",
+   "en": [
+    "conditions",
+    "terms"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vlerat",
+   "en": [
+    "values"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dheut",
+   "en": [
+    "soil",
+    "earth"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "marre",
+   "en": [
+    "taken",
+    "considered"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "metalike",
+   "en": [
+    "metallic",
+    "metal"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brendshme",
+   "en": [
+    "internal",
+    "interior"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjatesore",
+   "en": [
+    "longitudinal"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "projektimin",
+   "en": [
+    "design",
+    "projecting"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "punojne",
+   "en": [
+    "operate",
+    "work"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ngarkesa",
+   "en": [
+    "load",
+    "charge"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ngarkeses",
+   "en": [
+    "load",
+    "loading"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sizmik",
+   "en": [
+    "seismic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "impiantet",
+   "en": [
+    "plants",
+    "installations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "objekteve",
+   "en": [
+    "objects",
+    "structures"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qendrore",
+   "en": [
+    "central",
+    "main"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertimit",
+   "en": [
+    "construction",
+    "building"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rastet",
+   "en": [
+    "cases",
+    "instances"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veprimit",
+   "en": [
+    "action",
+    "operation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tunelet",
+   "en": [
+    "tunnels"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lartesi",
+   "en": [
+    "height",
+    "elevation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "terthore",
+   "en": [
+    "transverse",
+    "cross"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "largesia",
+   "en": [
+    "distance",
+    "spacing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kerkesa",
+   "en": [
+    "requirements",
+    "demands"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "konstruksionit",
+   "en": [
+    "construction",
+    "structure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "linjes",
+   "en": [
+    "line",
+    "route"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percaktohen",
+   "en": [
+    "determined",
+    "defined"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "murit",
+   "en": [
+    "wall"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qofte",
+   "en": [
+    "be",
+    "is"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tuneleve",
+   "en": [
+    "tunnels"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ambientet",
+   "en": [
+    "environments",
+    "ambient"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjithe",
+   "en": [
+    "all",
+    "every"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjendjes",
+   "en": [
+    "condition",
+    "state"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjatesor",
+   "en": [
+    "longitudinal"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perkulje",
+   "en": [
+    "bending",
+    "flexure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "seksionit",
+   "en": [
+    "section"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shperndarese",
+   "en": [
+    "distributive",
+    "distribution"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "formulen",
+   "en": [
+    "formula"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrjetit",
+   "en": [
+    "network",
+    "grid"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "poshte",
+   "en": [
+    "below",
+    "under"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogaritjen",
+   "en": [
+    "calculation",
+    "computation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "themeleve",
+   "en": [
+    "foundations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kushteve",
+   "en": [
+    "conditions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nenstacionet",
+   "en": [
+    "substations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "muret",
+   "en": [
+    "walls"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percjellesit",
+   "en": [
+    "conductors"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pikat",
+   "en": [
+    "points",
+    "spots"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjatesia",
+   "en": [
+    "length"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vogla",
+   "en": [
+    "small",
+    "minor"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "furnizimit",
+   "en": [
+    "supply",
+    "provision"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kerkesat",
+   "en": [
+    "requirements",
+    "demands"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjeset",
+   "en": [
+    "parts",
+    "components"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbajtes",
+   "en": [
+    "supporting",
+    "holder"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percjellesve",
+   "en": [
+    "conductors"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ketyre",
+   "en": [
+    "these"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "menyre",
+   "en": [
+    "manner",
+    "way"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rregull",
+   "en": [
+    "rule",
+    "regulation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "terheqje",
+   "en": [
+    "tension",
+    "pull"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "jashtme",
+   "en": [
+    "external",
+    "outer"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perkatese",
+   "en": [
+    "corresponding",
+    "respective"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lloji",
+   "en": [
+    "type",
+    "kind"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rastin",
+   "en": [
+    "case",
+    "instance"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "atehere",
+   "en": [
+    "then"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "minimale",
+   "en": [
+    "minimum"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perkohshme",
+   "en": [
+    "temporary",
+    "transient"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "presion",
+   "en": [
+    "pressure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "behen",
+   "en": [
+    "are made",
+    "are performed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjatesi",
+   "en": [
+    "length",
+    "longitudinal dimension"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "objektet",
+   "en": [
+    "objects",
+    "items"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rezistenca",
+   "en": [
+    "resistance",
+    "strength"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brenda",
+   "en": [
+    "inside"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "jashte",
+   "en": [
+    "outside",
+    "exterior"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pikes",
+   "en": [
+    "point",
+    "peak"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kundrejt",
+   "en": [
+    "against",
+    "opposite"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjese",
+   "en": [
+    "part",
+    "portion"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rruges",
+   "en": [
+    "road",
+    "pathway"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "inxhinierike",
+   "en": [
+    "engineering"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perdoret",
+   "en": [
+    "is used",
+    "is applied"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "trashesia",
+   "en": [
+    "thickness"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "balle",
+   "en": [
+    "face",
+    "front"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "barabarte",
+   "en": [
+    "equal"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjeresia",
+   "en": [
+    "width"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "koeficientet",
+   "en": [
+    "coefficients"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "transportit",
+   "en": [
+    "transport"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zonat",
+   "en": [
+    "zones",
+    "areas"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vendosur",
+   "en": [
+    "placed",
+    "located",
+    "determined"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogaritet",
+   "en": [
+    "is calculated",
+    "is computed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "prerje",
+   "en": [
+    "cut",
+    "cross-section"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "siperfaqja",
+   "en": [
+    "surface",
+    "area"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "teknika",
+   "en": [
+    "technique",
+    "method"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "koeficientit",
+   "en": [
+    "of the coefficient"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "piken",
+   "en": [
+    "point"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "skema",
+   "en": [
+    "diagram",
+    "scheme"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "materialeve",
+   "en": [
+    "materials"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "terthor",
+   "en": [
+    "transverse",
+    "cross"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veprimi",
+   "en": [
+    "action",
+    "operation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hapura",
+   "en": [
+    "open",
+    "openings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "jepen",
+   "en": [
+    "are given"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rekomandohet",
+   "en": [
+    "is recommended"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vecante",
+   "en": [
+    "special",
+    "particular"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vlera",
+   "en": [
+    "value"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "emertimi",
+   "en": [
+    "designation",
+    "name"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "figura",
+   "en": [
+    "figure",
+    "diagram"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogaritje",
+   "en": [
+    "calculation",
+    "computation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbajtese",
+   "en": [
+    "support",
+    "bearing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "midis",
+   "en": [
+    "between",
+    "among"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nevojshme",
+   "en": [
+    "necessary",
+    "required"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "presioni",
+   "en": [
+    "pressure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vendoset",
+   "en": [
+    "is placed",
+    "is set"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dherave",
+   "en": [
+    "soils",
+    "grounds"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lidhjet",
+   "en": [
+    "connections",
+    "joints"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "horizontal",
+   "en": [
+    "horizontal"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "linja",
+   "en": [
+    "line",
+    "pipeline"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbrojtjen",
+   "en": [
+    "protection"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "betonit",
+   "en": [
+    "concrete"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "forca",
+   "en": [
+    "force",
+    "strength"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qendrueshmerise",
+   "en": [
+    "stability",
+    "steadiness"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrezik",
+   "en": [
+    "risk",
+    "danger"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shfrytezimit",
+   "en": [
+    "exploitation",
+    "utilization"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "teorine",
+   "en": [
+    "theory"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vendosja",
+   "en": [
+    "placement",
+    "location"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "elementit",
+   "en": [
+    "element",
+    "component"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kurse",
+   "en": [
+    "while",
+    "whereas"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "largesite",
+   "en": [
+    "distances",
+    "spacings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "maksimale",
+   "en": [
+    "maximum"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mekanike",
+   "en": [
+    "mechanical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "koeficientin",
+   "en": [
+    "coefficient"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lidhen",
+   "en": [
+    "are connected",
+    "are tied"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndodhen",
+   "en": [
+    "are located",
+    "occur"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lidhje",
+   "en": [
+    "connection",
+    "bond"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vendosjes",
+   "en": [
+    "of placement",
+    "of setting"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "koeficient",
+   "en": [
+    "coefficient"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "urave",
+   "en": [
+    "bridges"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "forme",
+   "en": [
+    "form",
+    "shape"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kontrolli",
+   "en": [
+    "control",
+    "check"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbyllura",
+   "en": [
+    "closed",
+    "enclosed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nderprerja",
+   "en": [
+    "interruption",
+    "break"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndersa",
+   "en": [
+    "while",
+    "whereas"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertohen",
+   "en": [
+    "are built",
+    "are constructed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pesha",
+   "en": [
+    "weight",
+    "load"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjerresi",
+   "en": [
+    "slope",
+    "inclination"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qendrueshmeri",
+   "en": [
+    "stability"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "siperfaqes",
+   "en": [
+    "of the surface",
+    "of the area"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "varesi",
+   "en": [
+    "dependence",
+    "variation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vendet",
+   "en": [
+    "places",
+    "locations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjithashtu",
+   "en": [
+    "also",
+    "as well"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "konstruktive",
+   "en": [
+    "structural",
+    "construction"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogariten",
+   "en": [
+    "calculated",
+    "computed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nderteses",
+   "en": [
+    "building",
+    "structure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "normative",
+   "en": [
+    "normative",
+    "standard"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjesa",
+   "en": [
+    "part",
+    "section"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sherbejne",
+   "en": [
+    "serve",
+    "function"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tension",
+   "en": [
+    "tension",
+    "stress"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hapur",
+   "en": [
+    "open",
+    "exposed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "meposhtme",
+   "en": [
+    "lower",
+    "bottom"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perdorimi",
+   "en": [
+    "use",
+    "application"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perhershme",
+   "en": [
+    "permanent",
+    "perpetual"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "anesore",
+   "en": [
+    "lateral",
+    "side"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brezave",
+   "en": [
+    "belts",
+    "zones"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lartesise",
+   "en": [
+    "height",
+    "elevation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogaritjet",
+   "en": [
+    "calculations",
+    "computations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perjashtim",
+   "en": [
+    "exception",
+    "exclusion"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pllakave",
+   "en": [
+    "slabs",
+    "plates"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "plote",
+   "en": [
+    "full",
+    "complete"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "presionit",
+   "en": [
+    "pressure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zonen",
+   "en": [
+    "zone",
+    "area"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hapesira",
+   "en": [
+    "space",
+    "distance"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "intensitet",
+   "en": [
+    "intensity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "konstruksione",
+   "en": [
+    "structures",
+    "constructions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "larta",
+   "en": [
+    "high",
+    "tall"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pajisjeve",
+   "en": [
+    "equipment",
+    "devices"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percaktimin",
+   "en": [
+    "determination",
+    "definition"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rruga",
+   "en": [
+    "road",
+    "route"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ambiente",
+   "en": [
+    "environment",
+    "ambient"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "formules",
+   "en": [
+    "formula"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hapesire",
+   "en": [
+    "space",
+    "span"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "largesi",
+   "en": [
+    "distance",
+    "offset"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "normale",
+   "en": [
+    "normal",
+    "standard"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "permasat",
+   "en": [
+    "dimensions",
+    "sizes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tokezimi",
+   "en": [
+    "grounding",
+    "earthing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "trareve",
+   "en": [
+    "beams",
+    "girders"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "trashesi",
+   "en": [
+    "thickness"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "drejtim",
+   "en": [
+    "direction",
+    "alignment"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llamba",
+   "en": [
+    "lamp",
+    "light"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "prerjes",
+   "en": [
+    "section",
+    "cut"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "traret",
+   "en": [
+    "beam",
+    "girder"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "linje",
+   "en": [
+    "line",
+    "axis"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "objektit",
+   "en": [
+    "object",
+    "structure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjeseve",
+   "en": [
+    "parts",
+    "components"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "projektohen",
+   "en": [
+    "designed",
+    "projected"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vertikal",
+   "en": [
+    "vertical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "duhen",
+   "en": [
+    "needed",
+    "required"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjatesise",
+   "en": [
+    "length"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "jepet",
+   "en": [
+    "given",
+    "provided"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "madhesia",
+   "en": [
+    "magnitude",
+    "size"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mesatare",
+   "en": [
+    "average",
+    "mean"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zjarri",
+   "en": [
+    "fire"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "armatures",
+   "en": [
+    "reinforcement",
+    "armature"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ferkimit",
+   "en": [
+    "friction"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kalojne",
+   "en": [
+    "pass",
+    "cross"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pergjithshem",
+   "en": [
+    "general",
+    "common"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "profili",
+   "en": [
+    "profile",
+    "section"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rezistences",
+   "en": [
+    "resistance",
+    "strength"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrjetave",
+   "en": [
+    "networks",
+    "grids"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vendosura",
+   "en": [
+    "placed",
+    "located"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "afrimi",
+   "en": [
+    "approach",
+    "proximity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "masat",
+   "en": [
+    "measures",
+    "dimensions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbrojtjes",
+   "en": [
+    "protection",
+    "safeguarding"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "normal",
+   "en": [
+    "normal",
+    "standard"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "parashikohen",
+   "en": [
+    "provided",
+    "envisaged"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "parashikohet",
+   "en": [
+    "provided",
+    "foreseen"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "seksion",
+   "en": [
+    "section",
+    "cross-section"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtyllat",
+   "en": [
+    "columns",
+    "pillars"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtypur",
+   "en": [
+    "compressed",
+    "pressed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "siperfaqen",
+   "en": [
+    "surface",
+    "area"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "soliditet",
+   "en": [
+    "solidity",
+    "stability"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tille",
+   "en": [
+    "such",
+    "like"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tjeter",
+   "en": [
+    "other",
+    "another"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "trupi",
+   "en": [
+    "body",
+    "core"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "forcave",
+   "en": [
+    "forces",
+    "loads"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "formulat",
+   "en": [
+    "formulas",
+    "equations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njelloj",
+   "en": [
+    "same",
+    "identical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "profil",
+   "en": [
+    "profile",
+    "section"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "siper",
+   "en": [
+    "above",
+    "over"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "transformatoreve",
+   "en": [
+    "transformers"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "trasese",
+   "en": [
+    "route",
+    "alignment"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "traut",
+   "en": [
+    "beam"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vendit",
+   "en": [
+    "site",
+    "location",
+    "place"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "godinave",
+   "en": [
+    "buildings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kalimi",
+   "en": [
+    "crossing",
+    "passage",
+    "transition"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertimore",
+   "en": [
+    "construction",
+    "building"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "permasa",
+   "en": [
+    "dimensions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perputhje",
+   "en": [
+    "coincidence",
+    "correspondence",
+    "fit"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tokezimit",
+   "en": [
+    "earthing",
+    "grounding"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veprimet",
+   "en": [
+    "actions",
+    "operations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vleftat",
+   "en": [
+    "values",
+    "quantities"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "armatura",
+   "en": [
+    "reinforcement",
+    "rebar"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lartesine",
+   "en": [
+    "height"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pavaresisht",
+   "en": [
+    "independently"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percjelles",
+   "en": [
+    "conductor"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkurtra",
+   "en": [
+    "short circuits",
+    "short"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vepra",
+   "en": [
+    "works",
+    "structures"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "drite",
+   "en": [
+    "light"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "elemente",
+   "en": [
+    "elements"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "faqja",
+   "en": [
+    "face",
+    "surface"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbulesat",
+   "en": [
+    "covers",
+    "coatings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertimi",
+   "en": [
+    "construction",
+    "building"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjerresia",
+   "en": [
+    "slope",
+    "inclination"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dhena",
+   "en": [
+    "data"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "fuqise",
+   "en": [
+    "power",
+    "force"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kanalizimit",
+   "en": [
+    "drainage",
+    "sewerage",
+    "canalization"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "karakteristikat",
+   "en": [
+    "characteristics"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kontrollohen",
+   "en": [
+    "are checked",
+    "are controlled"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrymes",
+   "en": [
+    "current"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tokes",
+   "en": [
+    "soil",
+    "earth",
+    "ground"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vende",
+   "en": [
+    "places",
+    "sites"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vepres",
+   "en": [
+    "of the work",
+    "of the structure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "beton",
+   "en": [
+    "concrete"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "joshkembore",
+   "en": [
+    "non-rocky"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "levizshme",
+   "en": [
+    "movable",
+    "moving"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbulese",
+   "en": [
+    "cover",
+    "coating",
+    "roof"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nivelin",
+   "en": [
+    "level"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjesen",
+   "en": [
+    "part"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrugeve",
+   "en": [
+    "roads"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "siperme",
+   "en": [
+    "upper",
+    "top"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tensioni",
+   "en": [
+    "voltage",
+    "stress",
+    "tension"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "avarise",
+   "en": [
+    "failure",
+    "breakdown"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjeresi",
+   "en": [
+    "width"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kategoria",
+   "en": [
+    "category"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "koeficienteve",
+   "en": [
+    "coefficients"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lejohen",
+   "en": [
+    "are allowed",
+    "are permitted"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogaritur",
+   "en": [
+    "calculated",
+    "designed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "automatika",
+   "en": [
+    "automation",
+    "automatic control"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bashkimeve",
+   "en": [
+    "joints",
+    "connections"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "drites",
+   "en": [
+    "of light",
+    "lighting"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbeshtetjes",
+   "en": [
+    "support",
+    "bearing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertesa",
+   "en": [
+    "building"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ngarkese",
+   "en": [
+    "load",
+    "charge"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pergjitheshme",
+   "en": [
+    "general"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrufeprites",
+   "en": [
+    "lightning rod",
+    "lightning conductor"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkurter",
+   "en": [
+    "short"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sistemeve",
+   "en": [
+    "systems"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tekniko",
+   "en": [
+    "technical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "trupit",
+   "en": [
+    "body"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dispozita",
+   "en": [
+    "provisions",
+    "regulations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "elastike",
+   "en": [
+    "elastic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kaloje",
+   "en": [
+    "pass",
+    "cross"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kendi",
+   "en": [
+    "angle"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lidhjeve",
+   "en": [
+    "connections",
+    "links"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbrojtje",
+   "en": [
+    "protection"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njera",
+   "en": [
+    "one",
+    "the other"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "paraqet",
+   "en": [
+    "represents",
+    "presents"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjeses",
+   "en": [
+    "part"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "poshtme",
+   "en": [
+    "lower",
+    "bottom"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sigma",
+   "en": [
+    "stress"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tubacionet",
+   "en": [
+    "pipelines",
+    "pipes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vleresimi",
+   "en": [
+    "evaluation",
+    "assessment"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bashkimit",
+   "en": [
+    "joint",
+    "connection"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "fqinje",
+   "en": [
+    "adjacent",
+    "neighboring"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "furnizimi",
+   "en": [
+    "supply"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kalimit",
+   "en": [
+    "passage",
+    "transition",
+    "crossing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "levizjes",
+   "en": [
+    "motion",
+    "movement"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lidhur",
+   "en": [
+    "connected",
+    "related"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbulesa",
+   "en": [
+    "cover",
+    "roof",
+    "sheathing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nentokesore",
+   "en": [
+    "underground",
+    "subterranean"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qellim",
+   "en": [
+    "purpose",
+    "objective"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtresat",
+   "en": [
+    "layers",
+    "strata"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brezat",
+   "en": [
+    "belts",
+    "zones",
+    "bands"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "drejtimin",
+   "en": [
+    "direction",
+    "alignment"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "inkandeshente",
+   "en": [
+    "incandescent"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kolonave",
+   "en": [
+    "columns",
+    "pillars"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kombinimi",
+   "en": [
+    "combination",
+    "load combination"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kryhet",
+   "en": [
+    "carried out",
+    "performed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lidhjes",
+   "en": [
+    "connection",
+    "joint"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "marka",
+   "en": [
+    "grade",
+    "mark",
+    "brand"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mundshme",
+   "en": [
+    "possible",
+    "feasible"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perdorimit",
+   "en": [
+    "use",
+    "service",
+    "operation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pllaka",
+   "en": [
+    "slab",
+    "plate",
+    "tile"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "raporti",
+   "en": [
+    "ratio",
+    "report"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkembore",
+   "en": [
+    "rocky",
+    "rock (adj.)"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sigurohet",
+   "en": [
+    "ensured",
+    "secured"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vepron",
+   "en": [
+    "acts",
+    "operates"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bazament",
+   "en": [
+    "foundation",
+    "base",
+    "footing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "inercise",
+   "en": [
+    "inertia",
+    "inertial"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "statike",
+   "en": [
+    "static",
+    "statics"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "terhequr",
+   "en": [
+    "tension",
+    "pulled",
+    "tensile"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "troset",
+   "en": [
+    "pavements",
+    "road surfaces",
+    "paving"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tulla",
+   "en": [
+    "brick"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ajrit",
+   "en": [
+    "air",
+    "air (genitive)"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "atyre",
+   "en": [
+    "their",
+    "of them"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "boshtit",
+   "en": [
+    "axis",
+    "shaft"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "celik",
+   "en": [
+    "steel"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "klases",
+   "en": [
+    "class",
+    "grade"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "numri",
+   "en": [
+    "number",
+    "size",
+    "quantity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "parashikuar",
+   "en": [
+    "foreseen",
+    "specified",
+    "scheduled"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "planimetri",
+   "en": [
+    "floor plan",
+    "plan view",
+    "planimetry"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rreze",
+   "en": [
+    "radius",
+    "beam"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtyllave",
+   "en": [
+    "columns",
+    "poles",
+    "pillars"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "siperfaqe",
+   "en": [
+    "surface",
+    "area"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "temperatures",
+   "en": [
+    "temperature",
+    "temperature (genitive)"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "terheqese",
+   "en": [
+    "tensile",
+    "attractive"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veshjet",
+   "en": [
+    "coverings",
+    "coatings",
+    "cladding"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vetjake",
+   "en": [
+    "self-weight",
+    "dead load",
+    "own"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brezit",
+   "en": [
+    "belt",
+    "zone",
+    "band"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kontrollohet",
+   "en": [
+    "checked",
+    "verified",
+    "controlled"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "markes",
+   "en": [
+    "grade",
+    "mark",
+    "brand (genitive)"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbrohen",
+   "en": [
+    "protected",
+    "safeguarded"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbushjes",
+   "en": [
+    "filling",
+    "backfill",
+    "fill"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndahen",
+   "en": [
+    "divided",
+    "separated"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertimin",
+   "en": [
+    "construction",
+    "building"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ngrohjes",
+   "en": [
+    "heating",
+    "warming"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pajisjet",
+   "en": [
+    "equipment",
+    "devices",
+    "fittings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "prane",
+   "en": [
+    "near",
+    "adjacent",
+    "accepted"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rezistencat",
+   "en": [
+    "resistances",
+    "strengths"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zones",
+   "en": [
+    "zone",
+    "area"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "aparatet",
+   "en": [
+    "apparatus",
+    "devices",
+    "instruments"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "domosdoshme",
+   "en": [
+    "necessary",
+    "essential",
+    "indispensable"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "karakteristika",
+   "en": [
+    "characteristics",
+    "properties"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kategorizimi",
+   "en": [
+    "categorization",
+    "classification"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbeshtetje",
+   "en": [
+    "support",
+    "bearing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbitensionet",
+   "en": [
+    "overvoltages",
+    "over-tensions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shufrave",
+   "en": [
+    "bars",
+    "rods",
+    "reinforcing bars"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sistemit",
+   "en": [
+    "system",
+    "system (genitive)"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "stacioneve",
+   "en": [
+    "stations",
+    "plants (genitive)"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tunelit",
+   "en": [
+    "tunnel",
+    "tunnel (genitive)"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veprimin",
+   "en": [
+    "action",
+    "operation",
+    "effect"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kufijte",
+   "en": [
+    "limits",
+    "boundaries"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogaritjeve",
+   "en": [
+    "calculations",
+    "computations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "norma",
+   "en": [
+    "standard",
+    "norm",
+    "rate"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pakten",
+   "en": [
+    "at least",
+    "minimum"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percaktuara",
+   "en": [
+    "defined",
+    "specified",
+    "determined"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "renda",
+   "en": [
+    "order",
+    "sequence",
+    "rank"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrafshin",
+   "en": [
+    "plane",
+    "surface",
+    "level"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rruge",
+   "en": [
+    "road",
+    "route",
+    "path"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtese",
+   "en": [
+    "addition",
+    "extra",
+    "supplement"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtylles",
+   "en": [
+    "column",
+    "pole",
+    "pillar"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "trete",
+   "en": [
+    "third",
+    "dissolved",
+    "soluble"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ajrimit",
+   "en": [
+    "ventilation",
+    "aeration"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bashkimet",
+   "en": [
+    "connections",
+    "joints",
+    "unions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bashkohen",
+   "en": [
+    "join",
+    "unite",
+    "connect"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "cilave",
+   "en": [
+    "of which",
+    "which"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "forcat",
+   "en": [
+    "forces"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "forces",
+   "en": [
+    "forces"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hyjne",
+   "en": [
+    "enter",
+    "belong to"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbrojtese",
+   "en": [
+    "protective",
+    "protection"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbyllur",
+   "en": [
+    "closed",
+    "shut"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njeri",
+   "en": [
+    "one",
+    "person"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "realizohet",
+   "en": [
+    "realized",
+    "implemented",
+    "achieved"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sasia",
+   "en": [
+    "quantity",
+    "amount"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "skemes",
+   "en": [
+    "scheme",
+    "diagram"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "trare",
+   "en": [
+    "beam",
+    "girder"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vlefta",
+   "en": [
+    "value"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "aparateve",
+   "en": [
+    "apparatuses",
+    "devices"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ashtu",
+   "en": [
+    "so",
+    "thus"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "burimi",
+   "en": [
+    "source",
+    "origin"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "diametri",
+   "en": [
+    "diameter"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "fundit",
+   "en": [
+    "last",
+    "bottom"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "goditjet",
+   "en": [
+    "impacts",
+    "hits",
+    "strikes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hapesires",
+   "en": [
+    "space",
+    "area"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kabllore",
+   "en": [
+    "cable"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "keshillohet",
+   "en": [
+    "recommended",
+    "advised"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kolonat",
+   "en": [
+    "columns"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbushje",
+   "en": [
+    "filling",
+    "backfill"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nenshtrohen",
+   "en": [
+    "subjected",
+    "submitted"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "parapergatitura",
+   "en": [
+    "prefabricated",
+    "precast"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shufrat",
+   "en": [
+    "bars",
+    "rods"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "teper",
+   "en": [
+    "too",
+    "excessive"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "transkriptimi",
+   "en": [
+    "transcription"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vartesi",
+   "en": [
+    "dependency",
+    "dependence"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "armature",
+   "en": [
+    "reinforcement",
+    "armature"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "celikut",
+   "en": [
+    "steel"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dherat",
+   "en": [
+    "soils",
+    "earth"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "diameter",
+   "en": [
+    "diameter"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjatesine",
+   "en": [
+    "length"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "impianteve",
+   "en": [
+    "plants",
+    "installations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kerkesave",
+   "en": [
+    "requirements",
+    "demands"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lidhja",
+   "en": [
+    "connection",
+    "joint",
+    "link"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbeshtetjeve",
+   "en": [
+    "supports",
+    "bearings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbuleses",
+   "en": [
+    "cover",
+    "roofing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndricim",
+   "en": [
+    "lighting",
+    "illumination"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndricuesave",
+   "en": [
+    "luminaires",
+    "light fixtures"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perdorur",
+   "en": [
+    "used",
+    "applied"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perkates",
+   "en": [
+    "respective",
+    "corresponding"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "quhen",
+   "en": [
+    "called",
+    "named"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rezistence",
+   "en": [
+    "resistance",
+    "strength"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tjere",
+   "en": [
+    "others",
+    "other"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "token",
+   "en": [
+    "token",
+    "symbol"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tulle",
+   "en": [
+    "brick"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veprimeve",
+   "en": [
+    "actions",
+    "operations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "blloqe",
+   "en": [
+    "blocks"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dhera",
+   "en": [
+    "soils",
+    "earth"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "fluoreshente",
+   "en": [
+    "fluorescent"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kalon",
+   "en": [
+    "passes",
+    "crosses"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kolona",
+   "en": [
+    "column"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "konstruksioni",
+   "en": [
+    "construction",
+    "structure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kthese",
+   "en": [
+    "bend",
+    "turn",
+    "curvature"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lejuara",
+   "en": [
+    "allowed",
+    "permissible"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "masave",
+   "en": [
+    "measures",
+    "quantities"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "materialit",
+   "en": [
+    "material"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "momenti",
+   "en": [
+    "moment"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "paraqitura",
+   "en": [
+    "presented",
+    "shown"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perfshihen",
+   "en": [
+    "included",
+    "comprised"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrezja",
+   "en": [
+    "radius",
+    "ray"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrjete",
+   "en": [
+    "network",
+    "grid"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtresa",
+   "en": [
+    "layer",
+    "stratum"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "transformatoret",
+   "en": [
+    "transformers"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tunele",
+   "en": [
+    "tunnels"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ujerave",
+   "en": [
+    "waters"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vecanerisht",
+   "en": [
+    "especially",
+    "particularly"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vendi",
+   "en": [
+    "place",
+    "site"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veprojne",
+   "en": [
+    "act",
+    "operate"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "delta",
+   "en": [
+    "delta"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "jashteqendrore",
+   "en": [
+    "eccentric"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kapriatave",
+   "en": [
+    "trusses"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "malore",
+   "en": [
+    "mountainous",
+    "mountain"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mundesisht",
+   "en": [
+    "possibly",
+    "as far as possible"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nxehtesise",
+   "en": [
+    "heat"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "paraqiten",
+   "en": [
+    "appear",
+    "present themselves"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "planin",
+   "en": [
+    "plan",
+    "plane"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "plotesojne",
+   "en": [
+    "fulfill",
+    "satisfy",
+    "meet"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "prodhimit",
+   "en": [
+    "production",
+    "manufacturing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rryme",
+   "en": [
+    "current",
+    "flow"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "saldim",
+   "en": [
+    "welding"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkarkimit",
+   "en": [
+    "discharge",
+    "release"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "themelit",
+   "en": [
+    "foundation",
+    "base"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zjarrit",
+   "en": [
+    "fire"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "blloqeve",
+   "en": [
+    "blocks",
+    "units"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dhene",
+   "en": [
+    "given",
+    "specified"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dinamik",
+   "en": [
+    "dynamic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "fugave",
+   "en": [
+    "forces",
+    "loads"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjatesite",
+   "en": [
+    "lengths"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hekurudha",
+   "en": [
+    "railway",
+    "railroad"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hidraulike",
+   "en": [
+    "hydraulic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "konstruksion",
+   "en": [
+    "construction",
+    "structure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lekundjeve",
+   "en": [
+    "oscillations",
+    "vibrations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "materiali",
+   "en": [
+    "material"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbishtresa",
+   "en": [
+    "surface",
+    "layer",
+    "overlay"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbrojtur",
+   "en": [
+    "protected",
+    "shielded"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nderprerjes",
+   "en": [
+    "interruption",
+    "cutoff"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "normat",
+   "en": [
+    "standards",
+    "norms",
+    "rates"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pajisje",
+   "en": [
+    "equipment",
+    "device"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percaktuar",
+   "en": [
+    "determined",
+    "defined"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perkulshmerise",
+   "en": [
+    "flexibility",
+    "bendability"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qarqet",
+   "en": [
+    "circuits"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sallat",
+   "en": [
+    "halls",
+    "rooms"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sforcimeve",
+   "en": [
+    "stresses",
+    "strains"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shfrytezimi",
+   "en": [
+    "exploitation",
+    "utilization",
+    "operation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shpejtesia",
+   "en": [
+    "speed",
+    "velocity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shperndare",
+   "en": [
+    "distributed",
+    "dispersed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "stacione",
+   "en": [
+    "stations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "thellesi",
+   "en": [
+    "depth"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "uljes",
+   "en": [
+    "lowering",
+    "settlement",
+    "landing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vendin",
+   "en": [
+    "place",
+    "location"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ambientit",
+   "en": [
+    "environment",
+    "ambient"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "drejte",
+   "en": [
+    "straight",
+    "direct",
+    "right"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "formula",
+   "en": [
+    "formula",
+    "equation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "instalimit",
+   "en": [
+    "installation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "institucioneve",
+   "en": [
+    "institutions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "klimatike",
+   "en": [
+    "climatic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogarites",
+   "en": [
+    "calculator",
+    "computer"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogaritura",
+   "en": [
+    "calculated",
+    "computed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lokale",
+   "en": [
+    "local"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "monolite",
+   "en": [
+    "monolithic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertohet",
+   "en": [
+    "built",
+    "constructed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndryshem",
+   "en": [
+    "different",
+    "various"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pasur",
+   "en": [
+    "rich",
+    "having"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "plani",
+   "en": [
+    "plan",
+    "plane"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "posacme",
+   "en": [
+    "special",
+    "specific"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "profilit",
+   "en": [
+    "profile",
+    "section"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "publike",
+   "en": [
+    "public"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "regjimin",
+   "en": [
+    "regime",
+    "condition"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ribatina",
+   "en": [
+    "rivets"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrufepritese",
+   "en": [
+    "lightning rod",
+    "arrester"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sekondare",
+   "en": [
+    "secondary"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtrese",
+   "en": [
+    "layer",
+    "bed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shufra",
+   "en": [
+    "bars",
+    "rods"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vellimore",
+   "en": [
+    "volumetric",
+    "volume"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "banuara",
+   "en": [
+    "inhabited",
+    "populated"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brinje",
+   "en": [
+    "edges",
+    "ribs"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "druri",
+   "en": [
+    "wood",
+    "timber"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "forma",
+   "en": [
+    "shape",
+    "form"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjeneratoreve",
+   "en": [
+    "generators"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjeologjike",
+   "en": [
+    "geological"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "godines",
+   "en": [
+    "building",
+    "structure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "interpolim",
+   "en": [
+    "interpolation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lendeve",
+   "en": [
+    "materials",
+    "substances"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lidhura",
+   "en": [
+    "connected",
+    "joined"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llojet",
+   "en": [
+    "types",
+    "kinds"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llojit",
+   "en": [
+    "type",
+    "kind"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "marrjes",
+   "en": [
+    "taking",
+    "acquisition",
+    "intake"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "materiale",
+   "en": [
+    "materials"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "materialet",
+   "en": [
+    "the materials"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbrojtes",
+   "en": [
+    "protective",
+    "protector"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "menyra",
+   "en": [
+    "way",
+    "method",
+    "mode"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertimeve",
+   "en": [
+    "constructions",
+    "structures"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndricimin",
+   "en": [
+    "lighting",
+    "illumination"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "patur",
+   "en": [
+    "had",
+    "possessed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pikave",
+   "en": [
+    "points"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "projektohet",
+   "en": [
+    "designed",
+    "projected"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "salduar",
+   "en": [
+    "welded"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "seksioni",
+   "en": [
+    "section"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkak",
+   "en": [
+    "cause",
+    "reason"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkalle",
+   "en": [
+    "degree",
+    "scale",
+    "grade"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "transmetimit",
+   "en": [
+    "transmission"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "treguara",
+   "en": [
+    "shown",
+    "indicated"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veshjeve",
+   "en": [
+    "coatings",
+    "linings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vlerave",
+   "en": [
+    "values"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "boshteve",
+   "en": [
+    "shafts",
+    "axes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bulona",
+   "en": [
+    "bolts"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "formen",
+   "en": [
+    "form",
+    "shape"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjendjen",
+   "en": [
+    "state",
+    "condition"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lageshtira",
+   "en": [
+    "moisture"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbrojtjet",
+   "en": [
+    "protections"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbulesave",
+   "en": [
+    "covers",
+    "roofs"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mjeteve",
+   "en": [
+    "tools",
+    "means",
+    "devices"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "montimit",
+   "en": [
+    "assembly",
+    "mounting"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndermjetme",
+   "en": [
+    "intermediate"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndihmese",
+   "en": [
+    "auxiliary",
+    "supporting"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nepermjet",
+   "en": [
+    "via",
+    "through"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "paralel",
+   "en": [
+    "parallel"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pergjigjen",
+   "en": [
+    "response"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pergjigjet",
+   "en": [
+    "responses"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "plotesuese",
+   "en": [
+    "complementary",
+    "supplementary"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "realizohen",
+   "en": [
+    "realized",
+    "implemented"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rezerve",
+   "en": [
+    "reserve",
+    "spare"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrjetat",
+   "en": [
+    "networks",
+    "grids"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrufese",
+   "en": [
+    "lightning"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sforcimet",
+   "en": [
+    "stresses"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shpejtesise",
+   "en": [
+    "speed",
+    "velocity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "skemat",
+   "en": [
+    "schemes",
+    "diagrams"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tubacioneve",
+   "en": [
+    "pipelines",
+    "conduits"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veshjes",
+   "en": [
+    "coating",
+    "lining"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vijes",
+   "en": [
+    "line"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zakonshme",
+   "en": [
+    "ordinary",
+    "common"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "aparate",
+   "en": [
+    "apparatus",
+    "devices"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bazat",
+   "en": [
+    "bases",
+    "foundations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "betonarme",
+   "en": [
+    "reinforced concrete"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "intensiteti",
+   "en": [
+    "intensity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kolones",
+   "en": [
+    "column"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kombinimin",
+   "en": [
+    "combination"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kthesa",
+   "en": [
+    "bend",
+    "curve"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kunder",
+   "en": [
+    "against",
+    "counter"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kundert",
+   "en": [
+    "opposite",
+    "reverse"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "madhesite",
+   "en": [
+    "magnitudes",
+    "sizes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "menjanuar",
+   "en": [
+    "avoided",
+    "eliminated"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "minimal",
+   "en": [
+    "minimal"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mundesia",
+   "en": [
+    "possibility"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertese",
+   "en": [
+    "building"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "niveli",
+   "en": [
+    "level"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njohuri",
+   "en": [
+    "knowledge"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "panele",
+   "en": [
+    "panels"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "paralele",
+   "en": [
+    "parallel"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perbere",
+   "en": [
+    "composite",
+    "compound"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjerret",
+   "en": [
+    "oblique",
+    "sloping"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "plastike",
+   "en": [
+    "plastic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "punimet",
+   "en": [
+    "works",
+    "tasks"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "raportit",
+   "en": [
+    "ratio",
+    "report"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rasti",
+   "en": [
+    "case"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rregulla",
+   "en": [
+    "rules"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rreth",
+   "en": [
+    "around",
+    "about"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rritet",
+   "en": [
+    "increases"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrugore",
+   "en": [
+    "road"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rryma",
+   "en": [
+    "current",
+    "stream"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtojca",
+   "en": [
+    "appendix",
+    "annex"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtreses",
+   "en": [
+    "layer",
+    "bed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shumezuar",
+   "en": [
+    "multiplied"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sigurojne",
+   "en": [
+    "ensure",
+    "provide"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "specifike",
+   "en": [
+    "specific"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "thellesia",
+   "en": [
+    "depth"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "themelet",
+   "en": [
+    "foundations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "transformator",
+   "en": [
+    "transformer"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veprim",
+   "en": [
+    "action",
+    "operation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veshtira",
+   "en": [
+    "difficult",
+    "hard"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zbatimit",
+   "en": [
+    "implementation",
+    "application",
+    "execution"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brezin",
+   "en": [
+    "belt",
+    "layer",
+    "band"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dalin",
+   "en": [
+    "emerge",
+    "arise",
+    "result"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gravitetit",
+   "en": [
+    "gravity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "klasa",
+   "en": [
+    "class",
+    "category"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kombinimet",
+   "en": [
+    "combinations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kontrollin",
+   "en": [
+    "control",
+    "inspection",
+    "check"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "korrigjuar",
+   "en": [
+    "corrected",
+    "adjusted"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kryhen",
+   "en": [
+    "carried out",
+    "performed",
+    "executed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kushti",
+   "en": [
+    "condition",
+    "requirement"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lageshtire",
+   "en": [
+    "moisture",
+    "humidity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lejuar",
+   "en": [
+    "allowed",
+    "permitted"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lidhet",
+   "en": [
+    "connected",
+    "linked",
+    "tied"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "linear",
+   "en": [
+    "linear"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "makinave",
+   "en": [
+    "machines",
+    "vehicles",
+    "equipment"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbeshtetur",
+   "en": [
+    "supported",
+    "based",
+    "backed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbingarkimit",
+   "en": [
+    "overload",
+    "overcharging"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pajisen",
+   "en": [
+    "equipped",
+    "furnished"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "peshes",
+   "en": [
+    "weight"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "plotesisht",
+   "en": [
+    "completely",
+    "fully"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "plotesohen",
+   "en": [
+    "satisfied",
+    "fulfilled",
+    "completed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "poshtem",
+   "en": [
+    "below",
+    "lower",
+    "downward"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "regjim",
+   "en": [
+    "regime",
+    "mode",
+    "operation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rende",
+   "en": [
+    "order",
+    "sequence",
+    "row"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrjeti",
+   "en": [
+    "network",
+    "grid"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtylla",
+   "en": [
+    "column",
+    "pillar",
+    "pole"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "siguroje",
+   "en": [
+    "ensure",
+    "secure",
+    "guarantee"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "siguruar",
+   "en": [
+    "secured",
+    "ensured",
+    "provided"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "skenat",
+   "en": [
+    "scenarios",
+    "scenes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tabele",
+   "en": [
+    "table",
+    "plate",
+    "panel"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "temperatura",
+   "en": [
+    "temperature"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tubat",
+   "en": [
+    "pipes",
+    "tubes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vendosjen",
+   "en": [
+    "placement",
+    "positioning",
+    "installation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zvogelohet",
+   "en": [
+    "decreases",
+    "reduces",
+    "diminishes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "afert",
+   "en": [
+    "near",
+    "close",
+    "adjacent"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "aftesise",
+   "en": [
+    "capacity",
+    "capability",
+    "ability"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bitum",
+   "en": [
+    "bitumen"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "deformimit",
+   "en": [
+    "deformation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "drejtimit",
+   "en": [
+    "direction",
+    "alignment",
+    "guidance"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "durueshmeri",
+   "en": [
+    "durability",
+    "endurance"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "elasticitetit",
+   "en": [
+    "elasticity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjendje",
+   "en": [
+    "state",
+    "condition",
+    "situation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "godinat",
+   "en": [
+    "buildings",
+    "structures"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kombinim",
+   "en": [
+    "combination"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kufiri",
+   "en": [
+    "limit",
+    "boundary",
+    "border"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lloje",
+   "en": [
+    "types",
+    "kinds"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "paraqitet",
+   "en": [
+    "presented",
+    "appears",
+    "represented"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percjellesi",
+   "en": [
+    "conductor",
+    "carrier"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perkulja",
+   "en": [
+    "bending",
+    "deflection"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perqendruara",
+   "en": [
+    "concentrated",
+    "focused"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "prerese",
+   "en": [
+    "cutting",
+    "shear"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "projekt",
+   "en": [
+    "project",
+    "design"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rigjiduese",
+   "en": [
+    "stiffening",
+    "stiffener"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ruajtur",
+   "en": [
+    "preserved",
+    "maintained",
+    "kept"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shesheve",
+   "en": [
+    "squares",
+    "surfaces",
+    "areas"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shfaqjeve",
+   "en": [
+    "manifestations",
+    "phenomena",
+    "occurrences"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tabelat",
+   "en": [
+    "tables",
+    "plates",
+    "panels"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tensionet",
+   "en": [
+    "stresses",
+    "tensions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "verbatim",
+   "en": [
+    "verbatim"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veshje",
+   "en": [
+    "cladding",
+    "coating",
+    "covering"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "aerodinamik",
+   "en": [
+    "aerodynamic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "alumin",
+   "en": [
+    "aluminum"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brinjet",
+   "en": [
+    "edges",
+    "ribs"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "deformimeve",
+   "en": [
+    "deformations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "depot",
+   "en": [
+    "depots",
+    "storage"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "depove",
+   "en": [
+    "depots",
+    "warehouses"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dhenave",
+   "en": [
+    "data"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "djegshme",
+   "en": [
+    "flammable",
+    "combustible"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "drejtperdrejta",
+   "en": [
+    "direct",
+    "straight"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dyshemeja",
+   "en": [
+    "floor",
+    "flooring"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "fiziko",
+   "en": [
+    "physico",
+    "physical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "format",
+   "en": [
+    "shapes",
+    "forms"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "formes",
+   "en": [
+    "shape",
+    "form"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "izolatoreve",
+   "en": [
+    "insulators",
+    "isolators"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kalim",
+   "en": [
+    "passage",
+    "transition",
+    "crossing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kampaten",
+   "en": [
+    "compacted"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kapriata",
+   "en": [
+    "truss",
+    "girder"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kompensatoreve",
+   "en": [
+    "compensators",
+    "expansion joints"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kufizohet",
+   "en": [
+    "bounded",
+    "limited",
+    "restricted"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "levizese",
+   "en": [
+    "mobile",
+    "movable",
+    "moving"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbeshteten",
+   "en": [
+    "supported",
+    "rest on",
+    "rely"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mjetet",
+   "en": [
+    "means",
+    "tools",
+    "vehicles"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njejten",
+   "en": [
+    "same",
+    "identical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nxehte",
+   "en": [
+    "hot",
+    "heated"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "periodik",
+   "en": [
+    "periodic",
+    "cyclic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perqendruar",
+   "en": [
+    "concentrated",
+    "focused"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "prerja",
+   "en": [
+    "cut",
+    "section",
+    "interception"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qendrueshmeria",
+   "en": [
+    "stability",
+    "steadiness"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rendesise",
+   "en": [
+    "importance",
+    "significance"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "right",
+   "en": [
+    "right",
+    "correct"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrjetin",
+   "en": [
+    "network",
+    "grid"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shenja",
+   "en": [
+    "signs",
+    "marks",
+    "symbols"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shenohet",
+   "en": [
+    "is marked",
+    "is designated"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkalles",
+   "en": [
+    "scale",
+    "degree",
+    "level"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "stacionet",
+   "en": [
+    "stations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zonave",
+   "en": [
+    "zones",
+    "areas"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "arkitektonike",
+   "en": [
+    "architectural"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brinjes",
+   "en": [
+    "edge",
+    "side",
+    "rib"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brinjeve",
+   "en": [
+    "edges",
+    "sides",
+    "ribs"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dhenat",
+   "en": [
+    "data",
+    "given"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "etiketon",
+   "en": [
+    "labels",
+    "tags"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "formacione",
+   "en": [
+    "formations",
+    "arrangements"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjenerator",
+   "en": [
+    "generator"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hekur",
+   "en": [
+    "iron",
+    "steel"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kendet",
+   "en": [
+    "angles",
+    "corners"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kolone",
+   "en": [
+    "column",
+    "pillar"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "konstruksionin",
+   "en": [
+    "construction",
+    "structure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kontrollit",
+   "en": [
+    "control",
+    "inspection"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kuoten",
+   "en": [
+    "quota",
+    "allocation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lende",
+   "en": [
+    "material",
+    "matter"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lokal",
+   "en": [
+    "local",
+    "place"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbeshtetes",
+   "en": [
+    "support",
+    "bracket"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbeshtetjet",
+   "en": [
+    "supports",
+    "bearings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mesatar",
+   "en": [
+    "average",
+    "mean",
+    "medium"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "metra",
+   "en": [
+    "meters"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndermjetese",
+   "en": [
+    "intermediate",
+    "medium"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nivelit",
+   "en": [
+    "level",
+    "grade"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njekohesisht",
+   "en": [
+    "simultaneously",
+    "concurrently"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "objekte",
+   "en": [
+    "objects",
+    "buildings",
+    "facilities"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perkuljes",
+   "en": [
+    "bending",
+    "flexure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pllakes",
+   "en": [
+    "slab",
+    "plate"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qendra",
+   "en": [
+    "center",
+    "hub"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qendrave",
+   "en": [
+    "centers",
+    "hubs"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrethore",
+   "en": [
+    "circular",
+    "round"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sherbimit",
+   "en": [
+    "service",
+    "utility"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shines",
+   "en": [
+    "beams",
+    "joists"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtylle",
+   "en": [
+    "column",
+    "pole",
+    "pillar"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sinkron",
+   "en": [
+    "synchronous",
+    "synced"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "soleta",
+   "en": [
+    "slab",
+    "floor slab"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "studimeve",
+   "en": [
+    "studies",
+    "researches"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "teknologjike",
+   "en": [
+    "technological"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tubit",
+   "en": [
+    "pipe",
+    "tube",
+    "conduit"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ujesjellesit",
+   "en": [
+    "water supply",
+    "aqueduct"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "varet",
+   "en": [
+    "depends",
+    "hangs"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vecorite",
+   "en": [
+    "features",
+    "characteristics"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vleren",
+   "en": [
+    "value",
+    "worth"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "arsye",
+   "en": [
+    "reason",
+    "cause"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "baraz",
+   "en": [
+    "equal",
+    "uniform"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bashku",
+   "en": [
+    "together",
+    "jointly"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "burim",
+   "en": [
+    "source",
+    "spring"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "diferenciale",
+   "en": [
+    "differential"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dinamike",
+   "en": [
+    "dynamic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ekzistuese",
+   "en": [
+    "existing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "fugat",
+   "en": [
+    "loads",
+    "forces"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjeresine",
+   "en": [
+    "width",
+    "breadth"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "godina",
+   "en": [
+    "building"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hekurudhat",
+   "en": [
+    "railways",
+    "railroads"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kapriatat",
+   "en": [
+    "trusses",
+    "roof frames"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kryqezimet",
+   "en": [
+    "intersections",
+    "crossings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "largesine",
+   "en": [
+    "distance",
+    "spacing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lehte",
+   "en": [
+    "light",
+    "easy",
+    "lightweight"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "linjen",
+   "en": [
+    "line",
+    "route"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "makinat",
+   "en": [
+    "machines",
+    "machinery"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "maksimal",
+   "en": [
+    "maximum"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "marrin",
+   "en": [
+    "take",
+    "receive",
+    "obtain"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "material",
+   "en": [
+    "material"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mesiperme",
+   "en": [
+    "upper",
+    "above",
+    "superior"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mundesi",
+   "en": [
+    "possibility",
+    "capacity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndricues",
+   "en": [
+    "lighting",
+    "luminaires"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "neper",
+   "en": [
+    "through",
+    "across",
+    "along"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nevojshem",
+   "en": [
+    "necessary",
+    "required"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ngarkesen",
+   "en": [
+    "load",
+    "charge"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ngritese",
+   "en": [
+    "lifting",
+    "hoisting"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "normave",
+   "en": [
+    "standards",
+    "norms"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "normuar",
+   "en": [
+    "standardized",
+    "normalized"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "palevizshme",
+   "en": [
+    "mobile",
+    "movable"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "peshat",
+   "en": [
+    "weights",
+    "loads"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pllake",
+   "en": [
+    "plate",
+    "slab"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "plota",
+   "en": [
+    "full",
+    "complete"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qarqeve",
+   "en": [
+    "circuits",
+    "loops"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qendren",
+   "en": [
+    "center",
+    "central"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ramave",
+   "en": [
+    "frames",
+    "rams"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrjeta",
+   "en": [
+    "network",
+    "grid"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shenime",
+   "en": [
+    "notes",
+    "remarks"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shumezohen",
+   "en": [
+    "multiplied"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "siperfaqet",
+   "en": [
+    "surfaces",
+    "areas"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "skajet",
+   "en": [
+    "edges",
+    "ends"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "soletes",
+   "en": [
+    "slab",
+    "solette"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tipit",
+   "en": [
+    "type",
+    "kind"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tubacione",
+   "en": [
+    "pipelines",
+    "piping"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zakonshem",
+   "en": [
+    "common",
+    "ordinary"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zvogelohen",
+   "en": [
+    "decreased",
+    "reduced"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "afersi",
+   "en": [
+    "proximity",
+    "nearness"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "aktive",
+   "en": [
+    "active"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "anesor",
+   "en": [
+    "lateral",
+    "side"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "cilit",
+   "en": [
+    "which"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "debores",
+   "en": [
+    "snow"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dyfishim",
+   "en": [
+    "doubling",
+    "duplication"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "element",
+   "en": [
+    "element",
+    "component"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "etiketes",
+   "en": [
+    "label",
+    "tag"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "futen",
+   "en": [
+    "inserted",
+    "entered"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "grupi",
+   "en": [
+    "group",
+    "set"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "grupit",
+   "en": [
+    "group",
+    "set"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "humbjet",
+   "en": [
+    "losses"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "induksionet",
+   "en": [
+    "inductions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ishte",
+   "en": [
+    "was"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "izolatore",
+   "en": [
+    "insulators"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kateve",
+   "en": [
+    "floors",
+    "stories"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "konsiderohen",
+   "en": [
+    "considered"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kufirin",
+   "en": [
+    "limit",
+    "boundary"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "madhesise",
+   "en": [
+    "size",
+    "magnitude"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "malor",
+   "en": [
+    "mountain",
+    "mountainous"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbajtje",
+   "en": [
+    "bearing",
+    "support"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbistruktures",
+   "en": [
+    "superstructure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbushese",
+   "en": [
+    "filling",
+    "backfill"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "monolit",
+   "en": [
+    "monolithic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertime",
+   "en": [
+    "alterations",
+    "modifications"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndricuesat",
+   "en": [
+    "lighting fixtures",
+    "luminaires"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndryshimi",
+   "en": [
+    "difference",
+    "change"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "paraardhes",
+   "en": [
+    "predecessor",
+    "previous"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "paragrafit",
+   "en": [
+    "paragraph"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pluhuri",
+   "en": [
+    "dust",
+    "powder"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "prerjeve",
+   "en": [
+    "cuts",
+    "sections"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "projektit",
+   "en": [
+    "project",
+    "design"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "punon",
+   "en": [
+    "works",
+    "operates"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rastit",
+   "en": [
+    "case",
+    "instance"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rendesishme",
+   "en": [
+    "important",
+    "significant"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "renies",
+   "en": [
+    "fall",
+    "drop"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rezervuaret",
+   "en": [
+    "reservoirs",
+    "tanks"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rreshqitjes",
+   "en": [
+    "sliding",
+    "slippage"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "seksionin",
+   "en": [
+    "section"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shina",
+   "en": [
+    "rail",
+    "track"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkalla",
+   "en": [
+    "scale",
+    "degree",
+    "stair"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "simetrike",
+   "en": [
+    "symmetric",
+    "symmetrical"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sistem",
+   "en": [
+    "system"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "skelet",
+   "en": [
+    "skeleton",
+    "frame"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "skica",
+   "en": [
+    "sketch",
+    "drawing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "solete",
+   "en": [
+    "slab",
+    "solette"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "speciale",
+   "en": [
+    "special"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "suplementare",
+   "en": [
+    "supplementary",
+    "additional"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "thjeshte",
+   "en": [
+    "simple"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tombinove",
+   "en": [
+    "culverts",
+    "tombinos"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "transformatorit",
+   "en": [
+    "transformer"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "trashesine",
+   "en": [
+    "thickness"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "truallit",
+   "en": [
+    "soil",
+    "ground"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zakonisht",
+   "en": [
+    "usually",
+    "commonly"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "akullit",
+   "en": [
+    "ice"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bakri",
+   "en": [
+    "copper"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bazamentit",
+   "en": [
+    "base",
+    "foundation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bujqesore",
+   "en": [
+    "agricultural"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bulonave",
+   "en": [
+    "bolts"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "caktuar",
+   "en": [
+    "determined",
+    "assigned"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "daljet",
+   "en": [
+    "outlets",
+    "projections"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "disfavorshem",
+   "en": [
+    "unfavorable"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "drejtperdrejt",
+   "en": [
+    "directly"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "force",
+   "en": [
+    "force"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "forte",
+   "en": [
+    "strong"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "frenimit",
+   "en": [
+    "braking"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "harqe",
+   "en": [
+    "arches"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "horizontalisht",
+   "en": [
+    "horizontally"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "impiantit",
+   "en": [
+    "plant",
+    "installation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "instalimi",
+   "en": [
+    "installation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kategori",
+   "en": [
+    "category"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "koeficiente",
+   "en": [
+    "coefficients"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lindin",
+   "en": [
+    "arise",
+    "occur"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mungojne",
+   "en": [
+    "are missing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "muratures",
+   "en": [
+    "masonry"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndikimi",
+   "en": [
+    "influence",
+    "effect"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nenstacioneve",
+   "en": [
+    "substations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ngjashme",
+   "en": [
+    "similar"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "paragrafin",
+   "en": [
+    "paragraph"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "parapergatitur",
+   "en": [
+    "prefabricated",
+    "precast"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjeserisht",
+   "en": [
+    "partially"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "punen",
+   "en": [
+    "work"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qytete",
+   "en": [
+    "cities",
+    "towns"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "respektohen",
+   "en": [
+    "are respected",
+    "are complied with"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ribatinave",
+   "en": [
+    "rivets"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sherben",
+   "en": [
+    "serves"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shinat",
+   "en": [
+    "rails"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "skarpateve",
+   "en": [
+    "slopes",
+    "embankments"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "stafa",
+   "en": [
+    "stirrup",
+    "staff"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "stafave",
+   "en": [
+    "stirrups",
+    "staffs"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "udhezimeve",
+   "en": [
+    "instructions",
+    "guidelines"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ujrave",
+   "en": [
+    "waters"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "varjes",
+   "en": [
+    "suspension",
+    "hanging"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zgjedhjes",
+   "en": [
+    "choice",
+    "selection"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zhvendosjet",
+   "en": [
+    "displacements"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "alumini",
+   "en": [
+    "aluminum"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "armimi",
+   "en": [
+    "reinforcement"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "automjeteve",
+   "en": [
+    "vehicles"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bazamenteve",
+   "en": [
+    "foundations",
+    "bases"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "betonarmeje",
+   "en": [
+    "reinforced concrete"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "boshtin",
+   "en": [
+    "axis",
+    "shaft"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "faqet",
+   "en": [
+    "faces",
+    "sides"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "frekuences",
+   "en": [
+    "frequency"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "fundore",
+   "en": [
+    "bottom",
+    "end"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "industrise",
+   "en": [
+    "industry"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "intensitetit",
+   "en": [
+    "intensity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "japin",
+   "en": [
+    "give",
+    "yield"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kater",
+   "en": [
+    "four"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "katrama",
+   "en": [
+    "layers",
+    "courses"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "klasave",
+   "en": [
+    "classes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kohes",
+   "en": [
+    "time"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kombinuar",
+   "en": [
+    "combined"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kriteret",
+   "en": [
+    "criteria"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llogari",
+   "en": [
+    "account",
+    "calculation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "marrja",
+   "en": [
+    "taking",
+    "intake"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbrojtura",
+   "en": [
+    "protected"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "metali",
+   "en": [
+    "metal"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "momentit",
+   "en": [
+    "moment"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "montimi",
+   "en": [
+    "assembly",
+    "mounting"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mundur",
+   "en": [
+    "possible"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "murin",
+   "en": [
+    "wall"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndermarrjeve",
+   "en": [
+    "enterprises"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndodhet",
+   "en": [
+    "is located"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndricuesit",
+   "en": [
+    "luminaire",
+    "light fixture"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njetrajtesisht",
+   "en": [
+    "uniformly",
+    "homogeneously"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "paneleve",
+   "en": [
+    "panels"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perbera",
+   "en": [
+    "composed",
+    "consisting"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percaktime",
+   "en": [
+    "determinations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perkules",
+   "en": [
+    "bending"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "plasese",
+   "en": [
+    "cracking"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pranohet",
+   "en": [
+    "is accepted"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "provat",
+   "en": [
+    "tests"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "punimeve",
+   "en": [
+    "works"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rasteve",
+   "en": [
+    "cases"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "reparte",
+   "en": [
+    "departments",
+    "sections"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rezultat",
+   "en": [
+    "result"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrafshet",
+   "en": [
+    "planes",
+    "surfaces"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rregullt",
+   "en": [
+    "regular"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrufepritesit",
+   "en": [
+    "lightning rod",
+    "lightning arrester"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "saldimit",
+   "en": [
+    "welding",
+    "soldering"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "salduara",
+   "en": [
+    "welded",
+    "soldered"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "seksione",
+   "en": [
+    "sections",
+    "cross-sections"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "seksionet",
+   "en": [
+    "sections",
+    "segments"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sheshit",
+   "en": [
+    "site",
+    "ground",
+    "area"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shfrytezohen",
+   "en": [
+    "utilized",
+    "exploited"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkycjen",
+   "en": [
+    "disconnection",
+    "switching off"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shperndarja",
+   "en": [
+    "distribution",
+    "dispersion"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtresave",
+   "en": [
+    "layers",
+    "strata"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shufres",
+   "en": [
+    "rod",
+    "bar"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sigurise",
+   "en": [
+    "safety",
+    "security"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "siperfaqeve",
+   "en": [
+    "surfaces",
+    "areas"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sistemet",
+   "en": [
+    "systems"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sizmicitet",
+   "en": [
+    "seismicity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tegelat",
+   "en": [
+    "seams",
+    "joints",
+    "welds"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "trashesise",
+   "en": [
+    "thickness"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tregohen",
+   "en": [
+    "shown",
+    "indicated"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "uljet",
+   "en": [
+    "settlements",
+    "sags",
+    "drops"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "xhami",
+   "en": [
+    "glass"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zbritesit",
+   "en": [
+    "down conductor",
+    "downlead"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zgjedhja",
+   "en": [
+    "choice",
+    "selection"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zgjidhjet",
+   "en": [
+    "solutions",
+    "resolutions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zhvendosja",
+   "en": [
+    "displacement",
+    "shift"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zhvendosje",
+   "en": [
+    "displacement",
+    "movement"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "armaturen",
+   "en": [
+    "reinforcement",
+    "armature"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ballore",
+   "en": [
+    "front",
+    "frontal"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "boshti",
+   "en": [
+    "axis",
+    "shaft"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "burimet",
+   "en": [
+    "resources",
+    "sources"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "catise",
+   "en": [
+    "roof",
+    "roofing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "cimento",
+   "en": [
+    "cement"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dalja",
+   "en": [
+    "exit",
+    "outlet",
+    "output"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "distanca",
+   "en": [
+    "distance"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "faqes",
+   "en": [
+    "face",
+    "side",
+    "surface"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "fazave",
+   "en": [
+    "phases",
+    "stages"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "festiv",
+   "en": [
+    "festive",
+    "holiday"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "forta",
+   "en": [
+    "strong",
+    "force"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "fundi",
+   "en": [
+    "end",
+    "bottom",
+    "finish"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "fusha",
+   "en": [
+    "field",
+    "domain"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "futet",
+   "en": [
+    "inserted",
+    "enters"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hapesirave",
+   "en": [
+    "spaces",
+    "gaps"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hyrje",
+   "en": [
+    "entry",
+    "input",
+    "introduction"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "izolimi",
+   "en": [
+    "insulation",
+    "isolation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kalimet",
+   "en": [
+    "passages",
+    "transitions",
+    "crossings"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kategorine",
+   "en": [
+    "category",
+    "class"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kendore",
+   "en": [
+    "angular",
+    "corner"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kombinimit",
+   "en": [
+    "combination"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kompleks",
+   "en": [
+    "complex",
+    "compound"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kontroll",
+   "en": [
+    "control",
+    "inspection",
+    "check"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kritere",
+   "en": [
+    "criteria"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kryesor",
+   "en": [
+    "main",
+    "principal",
+    "primary"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "largesise",
+   "en": [
+    "distance",
+    "remoteness"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lineare",
+   "en": [
+    "linear"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lumenjve",
+   "en": [
+    "rivers"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "markave",
+   "en": [
+    "marks",
+    "brands",
+    "grades"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "masive",
+   "en": [
+    "massive",
+    "solid"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbushjeve",
+   "en": [
+    "fillings",
+    "backfills"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mungese",
+   "en": [
+    "absence",
+    "lack"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "natyrale",
+   "en": [
+    "natural"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndara",
+   "en": [
+    "separated",
+    "divided"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndasharese",
+   "en": [
+    "separator",
+    "partition"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nderkaq",
+   "en": [
+    "meanwhile",
+    "however"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nderpriten",
+   "en": [
+    "interrupted",
+    "discontinued"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndihmen",
+   "en": [
+    "assistance",
+    "aid"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njetrajtshme",
+   "en": [
+    "uniform",
+    "homogeneous"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "normuara",
+   "en": [
+    "standardized",
+    "normed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "numer",
+   "en": [
+    "number",
+    "count"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjerresite",
+   "en": [
+    "slopes",
+    "inclinations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjerreta",
+   "en": [
+    "steep",
+    "inclined"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "planit",
+   "en": [
+    "plan",
+    "plane"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "plasurave",
+   "en": [
+    "cracks",
+    "fissures"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pllakat",
+   "en": [
+    "plates",
+    "slabs",
+    "tiles"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "saldimi",
+   "en": [
+    "welding",
+    "soldering"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkallet",
+   "en": [
+    "steps",
+    "stairs",
+    "ladder"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shperndarjes",
+   "en": [
+    "distribution"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sisteme",
+   "en": [
+    "systems"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sizmicitetit",
+   "en": [
+    "seismicity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "skemave",
+   "en": [
+    "diagrams",
+    "schemes",
+    "layouts"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "strukturore",
+   "en": [
+    "structural"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tabani",
+   "en": [
+    "base",
+    "bottom",
+    "foundation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tabelave",
+   "en": [
+    "tables",
+    "charts",
+    "panels"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tegelave",
+   "en": [
+    "seams",
+    "joints",
+    "welds"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "telekomunikacionit",
+   "en": [
+    "telecommunications"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tensioneve",
+   "en": [
+    "stresses",
+    "tensions",
+    "voltages"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "themelore",
+   "en": [
+    "fundamental",
+    "basic",
+    "primary"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tjetri",
+   "en": [
+    "other",
+    "another"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tjetrit",
+   "en": [
+    "other",
+    "another"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tubave",
+   "en": [
+    "pipes",
+    "tubes",
+    "ducts"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vares",
+   "en": [
+    "hanger",
+    "suspension"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vecuar",
+   "en": [
+    "isolated",
+    "separated",
+    "detached"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vetite",
+   "en": [
+    "properties",
+    "characteristics"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vincave",
+   "en": [
+    "winches",
+    "hoists"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zbritjet",
+   "en": [
+    "descents",
+    "downward slopes",
+    "drawdowns"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zgjatimit",
+   "en": [
+    "extension",
+    "elongation",
+    "duration"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zhavorr",
+   "en": [
+    "gravel"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zhive",
+   "en": [
+    "mercury"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ankerore",
+   "en": [
+    "anchor",
+    "anchorage"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "automatik",
+   "en": [
+    "automatic",
+    "automated"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bashkimi",
+   "en": [
+    "joint",
+    "connection",
+    "union"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bazen",
+   "en": [
+    "basin",
+    "reservoir",
+    "pool"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bejne",
+   "en": [
+    "make",
+    "do",
+    "perform"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "bobine",
+   "en": [
+    "coil",
+    "reel",
+    "spool"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "breza",
+   "en": [
+    "belts",
+    "straps",
+    "bands"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "caktohet",
+   "en": [
+    "determined",
+    "set",
+    "assigned"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "celesit",
+   "en": [
+    "key",
+    "switch",
+    "wrench"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "cilen",
+   "en": [
+    "which",
+    "whom"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "detyrimisht",
+   "en": [
+    "obligatorily",
+    "mandatorily",
+    "necessarily"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dhoma",
+   "en": [
+    "rooms",
+    "chambers",
+    "compartments"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "diametra",
+   "en": [
+    "diameters"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "drejtimet",
+   "en": [
+    "directions",
+    "orientations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "drejtimi",
+   "en": [
+    "direction",
+    "guidance",
+    "management"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "eternit",
+   "en": [
+    "asbestos cement",
+    "fibre cement"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "faktike",
+   "en": [
+    "actual",
+    "factual",
+    "real"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "formulave",
+   "en": [
+    "formulas",
+    "equations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjendet",
+   "en": [
+    "is found",
+    "is located",
+    "is situated"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjeresise",
+   "en": [
+    "width"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjithmone",
+   "en": [
+    "always",
+    "constantly"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "granil",
+   "en": [
+    "granite aggregate",
+    "granite chips"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hekuri",
+   "en": [
+    "iron",
+    "steel"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hyrjes",
+   "en": [
+    "entrance",
+    "inlet",
+    "input"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "inxhiniero",
+   "en": [
+    "engineering",
+    "engineer"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "izolimit",
+   "en": [
+    "insulation",
+    "isolation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kabllove",
+   "en": [
+    "cables"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kalimin",
+   "en": [
+    "passage",
+    "transition",
+    "crossing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kanalizimi",
+   "en": [
+    "sewerage",
+    "drainage",
+    "canalization"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "katit",
+   "en": [
+    "storey",
+    "floor",
+    "level"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kendit",
+   "en": [
+    "angle",
+    "corner"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "konsiderohet",
+   "en": [
+    "is considered",
+    "is regarded"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kontakt",
+   "en": [
+    "contact"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "krahasim",
+   "en": [
+    "comparison",
+    "contrast"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kulturore",
+   "en": [
+    "cultural"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kurba",
+   "en": [
+    "curve"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lartesite",
+   "en": [
+    "heights",
+    "altitudes",
+    "levels"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "madhesi",
+   "en": [
+    "magnitude",
+    "size",
+    "quantity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "madhesine",
+   "en": [
+    "magnitude",
+    "size",
+    "quantity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbrojtjeve",
+   "en": [
+    "protections",
+    "safeguards"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbuluara",
+   "en": [
+    "covered",
+    "coated",
+    "roofed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mineraleve",
+   "en": [
+    "minerals"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mungon",
+   "en": [
+    "is missing",
+    "lacks",
+    "absent"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "natyral",
+   "en": [
+    "natural"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndalohet",
+   "en": [
+    "is prohibited",
+    "is forbidden"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndryshojne",
+   "en": [
+    "change",
+    "vary",
+    "differ"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "neutral",
+   "en": [
+    "neutral"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njerezve",
+   "en": [
+    "people",
+    "persons"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njerin",
+   "en": [
+    "one",
+    "the one"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njesi",
+   "en": [
+    "unit"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "normativ",
+   "en": [
+    "normative",
+    "standard"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "numuri",
+   "en": [
+    "number",
+    "numeral"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nyjeve",
+   "en": [
+    "nodes",
+    "joints"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "paraqesin",
+   "en": [
+    "represent",
+    "present",
+    "show"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perforcuar",
+   "en": [
+    "reinforced",
+    "strengthened"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "permasave",
+   "en": [
+    "dimensions",
+    "sizes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pershtatshme",
+   "en": [
+    "suitable",
+    "appropriate",
+    "adequate"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qendres",
+   "en": [
+    "center",
+    "resistance"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qendrueshem",
+   "en": [
+    "stable",
+    "durable",
+    "permanent"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qeramike",
+   "en": [
+    "ceramic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "radhe",
+   "en": [
+    "row",
+    "rank",
+    "order"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "referohet",
+   "en": [
+    "refers",
+    "references",
+    "relates"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "regjimit",
+   "en": [
+    "regime",
+    "pattern",
+    "condition"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "renditjes",
+   "en": [
+    "arrangement",
+    "ordering",
+    "ranking"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrumbullaket",
+   "en": [
+    "rounded",
+    "circular"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "salla",
+   "en": [
+    "hall",
+    "room"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shembull",
+   "en": [
+    "example"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shenohen",
+   "en": [
+    "are marked",
+    "are indicated"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sheshet",
+   "en": [
+    "squares",
+    "areas"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkaktohen",
+   "en": [
+    "are caused",
+    "are produced"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shpejtimi",
+   "en": [
+    "acceleration"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shperndares",
+   "en": [
+    "distributor",
+    "distributing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sigurimin",
+   "en": [
+    "security",
+    "safety"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "soliditetit",
+   "en": [
+    "solidity",
+    "stability"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "temperaturen",
+   "en": [
+    "temperature"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "thate",
+   "en": [
+    "dry"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tokezohen",
+   "en": [
+    "are grounded",
+    "are earthed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tokezues",
+   "en": [
+    "grounding",
+    "earthing"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "uljen",
+   "en": [
+    "lowering",
+    "reduction"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ushqimit",
+   "en": [
+    "supply",
+    "feeding"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vazhdim",
+   "en": [
+    "continuation",
+    "continuity"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ventilim",
+   "en": [
+    "ventilation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vjetore",
+   "en": [
+    "annual",
+    "yearly"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vlefshme",
+   "en": [
+    "valid",
+    "applicable"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vlejne",
+   "en": [
+    "apply",
+    "are valid"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zgjidhen",
+   "en": [
+    "are solved",
+    "are selected"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "akull",
+   "en": [
+    "ice"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ambienti",
+   "en": [
+    "ambient",
+    "environment"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "boshlleqe",
+   "en": [
+    "gaps",
+    "voids"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brinja",
+   "en": [
+    "ribs",
+    "edges"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "brinjen",
+   "en": [
+    "rib",
+    "edge"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "burimit",
+   "en": [
+    "source"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "cakell",
+   "en": [
+    "gravel",
+    "pebble"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "diagonale",
+   "en": [
+    "diagonal"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "drejta",
+   "en": [
+    "right",
+    "straight",
+    "direct"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "dysheme",
+   "en": [
+    "floor",
+    "flooring"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ekonomik",
+   "en": [
+    "economic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "elastik",
+   "en": [
+    "elastic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "faktoreve",
+   "en": [
+    "factors"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "faqen",
+   "en": [
+    "face",
+    "side"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ftohte",
+   "en": [
+    "cold"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjendja",
+   "en": [
+    "state",
+    "condition"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjeneratoret",
+   "en": [
+    "generators"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "gjeometrike",
+   "en": [
+    "geometric"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hapjes",
+   "en": [
+    "opening"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hekurudhes",
+   "en": [
+    "railway"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "hidraulik",
+   "en": [
+    "hydraulic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "instalimeve",
+   "en": [
+    "installations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kaluese",
+   "en": [
+    "passing",
+    "through"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kenaqe",
+   "en": [
+    "satisfaction",
+    "satisfy"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "keputjes",
+   "en": [
+    "rupture",
+    "breakage"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "klime",
+   "en": [
+    "climate"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kohen",
+   "en": [
+    "time",
+    "period"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "komandimit",
+   "en": [
+    "control",
+    "command"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kthesat",
+   "en": [
+    "curves",
+    "bends"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "kuota",
+   "en": [
+    "quota",
+    "level"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "letra",
+   "en": [
+    "paper"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lirisht",
+   "en": [
+    "freely"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "llambave",
+   "en": [
+    "lamps"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "lokalet",
+   "en": [
+    "premises",
+    "rooms"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "masen",
+   "en": [
+    "measure",
+    "mass"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "matjes",
+   "en": [
+    "measurement"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mbajne",
+   "en": [
+    "hold",
+    "support"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "meter",
+   "en": [
+    "meter"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "metoden",
+   "en": [
+    "method"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mirembajtja",
+   "en": [
+    "maintenance"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "moduli",
+   "en": [
+    "modulus"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "mundesine",
+   "en": [
+    "possibility",
+    "ability"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "murature",
+   "en": [
+    "masonry"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "nderprerjet",
+   "en": [
+    "interruptions",
+    "breaks"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ndertuar",
+   "en": [
+    "built",
+    "constructed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ngritje",
+   "en": [
+    "raising",
+    "lifting"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ngritjes",
+   "en": [
+    "raising",
+    "lifting",
+    "elevation"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "njerez",
+   "en": [
+    "people"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pajisja",
+   "en": [
+    "equipment",
+    "device"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pasurimit",
+   "en": [
+    "enrichment"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perbashket",
+   "en": [
+    "common",
+    "joint"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "percaktimeve",
+   "en": [
+    "determinations",
+    "definitions"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "perket",
+   "en": [
+    "concerns",
+    "relates to"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "permbajne",
+   "en": [
+    "contain",
+    "include"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pershkrimi",
+   "en": [
+    "description"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pjerresise",
+   "en": [
+    "slope",
+    "inclination"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "plasaritjeve",
+   "en": [
+    "cracks",
+    "cracking"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pluhur",
+   "en": [
+    "dust",
+    "powder"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "posacem",
+   "en": [
+    "special",
+    "particular"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "pranohen",
+   "en": [
+    "accepted",
+    "adopted"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "prerjen",
+   "en": [
+    "cutting",
+    "section",
+    "shear"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "presionet",
+   "en": [
+    "pressures"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "profileve",
+   "en": [
+    "profiles",
+    "sections"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "projektuar",
+   "en": [
+    "designed",
+    "projected"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "prokat",
+   "en": [
+    "rolled",
+    "rolling"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "punuese",
+   "en": [
+    "working",
+    "effective"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qemereve",
+   "en": [
+    "vaults",
+    "arches"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qendrueshme",
+   "en": [
+    "stable",
+    "durable"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "qendrueshmerine",
+   "en": [
+    "stability",
+    "durability"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rajonet",
+   "en": [
+    "regions",
+    "zones"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rekomandime",
+   "en": [
+    "recommendations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "relative",
+   "en": [
+    "relative"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rrezes",
+   "en": [
+    "radius",
+    "ray"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rritja",
+   "en": [
+    "increase",
+    "growth"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "rritjen",
+   "en": [
+    "increase",
+    "growth"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ruluar",
+   "en": [
+    "rolled",
+    "coiled"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "saldohen",
+   "en": [
+    "welded"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "seksioneve",
+   "en": [
+    "sections"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sforcime",
+   "en": [
+    "stresses",
+    "strains"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shkarkues",
+   "en": [
+    "relief",
+    "discharge",
+    "spillway"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shperndarje",
+   "en": [
+    "distribution",
+    "dispersion"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtypjes",
+   "en": [
+    "compression",
+    "pressure"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shtytja",
+   "en": [
+    "thrust",
+    "push"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "shumezohet",
+   "en": [
+    "multiplied"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "sistemi",
+   "en": [
+    "system"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "skarpatave",
+   "en": [
+    "slopes",
+    "batters"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "skeme",
+   "en": [
+    "scheme",
+    "diagram"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "stafat",
+   "en": [
+    "deadlines",
+    "time limits"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "stallave",
+   "en": [
+    "stables",
+    "barns"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tabanit",
+   "en": [
+    "base",
+    "footing",
+    "sole"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tegel",
+   "en": [
+    "seam",
+    "joint",
+    "weld"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tegelit",
+   "en": [
+    "seam",
+    "joint",
+    "weld"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "temperature",
+   "en": [
+    "temperature"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "terhequra",
+   "en": [
+    "tensioned",
+    "drawn",
+    "reinforced"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "termetit",
+   "en": [
+    "earthquake",
+    "seismic"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "thellesine",
+   "en": [
+    "depth"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "themele",
+   "en": [
+    "foundations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "thjeshta",
+   "en": [
+    "simple",
+    "plain"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tokezuara",
+   "en": [
+    "grounded",
+    "earthed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tombino",
+   "en": [
+    "culvert",
+    "siphon"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "trashe",
+   "en": [
+    "thick",
+    "coarse"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tregohet",
+   "en": [
+    "shown",
+    "indicated"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "treguesit",
+   "en": [
+    "indicators",
+    "indexes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "troje",
+   "en": [
+    "soils",
+    "grounds"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "tunel",
+   "en": [
+    "tunnel"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "ushqim",
+   "en": [
+    "feeding",
+    "supply",
+    "feed"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vajit",
+   "en": [
+    "oil"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vazhduar",
+   "en": [
+    "continued",
+    "continuous"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "vellimit",
+   "en": [
+    "volume"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "veprime",
+   "en": [
+    "actions",
+    "operations"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "verejtje",
+   "en": [
+    "remarks",
+    "notes"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zgjedhjen",
+   "en": [
+    "selection",
+    "choice"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zhvendosjes",
+   "en": [
+    "displacement",
+    "shift"
+   ],
+   "source": "word"
+  },
+  {
+   "sq": "zhvendosjeve",
+   "en": [
+    "displacements",
+    "shifts"
+   ],
+   "source": "word"
+  }
+ ],
+ "words_built_at": "2026-09-19T16:48:03.902Z"
+}

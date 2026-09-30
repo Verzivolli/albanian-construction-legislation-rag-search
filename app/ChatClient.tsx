@@ -24,16 +24,18 @@ type Turn =
   | { role: "answer"; text: string; citations: Citation[] }
   | { role: "demo"; text: string };
 
-const DEMO_TEXT: Record<Lang, { notRecorded: string; suggestions: string; tagline: string }> = {
+const DEMO_TEXT: Record<Lang, { notRecorded: string; suggestions: string; tagline: string; left: (n: number) => string }> = {
   en: {
     notRecorded:
-      "This demo only has recorded answers for the example questions below. Live search over all KTP codes is part of KodiAI, still in development.",
+      "You've used your 5 live questions for today. The example questions below still work, because their answers are recorded.",
+    left: (n) => `${n} of 5 live questions left today · example questions are free`,
     suggestions: "Try an example question",
     tagline: "Albanian design codes (KTP) search",
   },
   sq: {
     notRecorded:
-      "Ky demo ka përgjigje të regjistruara vetëm për pyetjet shembull më poshtë. Kërkimi i plotë në të gjitha KTP-të është pjesë e KodiAI, ende në zhvillim.",
+      "I keni përdorur 5 pyetjet live për sot. Pyetjet shembull më poshtë funksionojnë ende, sepse përgjigjet e tyre janë të regjistruara.",
+    left: (n) => `${n} nga 5 pyetje live të mbetura sot · pyetjet shembull janë falas`,
     suggestions: "Provo një pyetje shembull",
     tagline: "Kërkim në kushtet teknike (KTP)",
   },
@@ -67,6 +69,8 @@ export default function ChatClient() {
   const [turns, setTurns] = useState<Turn[]>([]);
   const [loading, setLoading] = useState(false);
   const [referenceId, setReferenceId] = useState<string | null>(null);
+  const [history, setHistory] = useState<{ question: string; answer: string }[]>([]);
+  const [remaining, setRemaining] = useState<number>(5);
 
   const t = STRINGS[lang];
   const d = DEMO_TEXT[lang];
@@ -79,6 +83,10 @@ export default function ChatClient() {
     } catch {
       // storage blocked: keep the default language
     }
+    fetch("/api/ask")
+      .then((r) => r.json())
+      .then((b) => typeof b.remaining === "number" && setRemaining(b.remaining))
+      .catch(() => {});
     fetch("/ktp-demo.json")
       .then((r) => (r.ok ? (r.json() as Promise<DemoData>) : Promise.reject()))
       .then(setData)
@@ -94,20 +102,46 @@ export default function ChatClient() {
     }
   }
 
-  function submit(q: string) {
+  function answered(q: string, text: string, citations: Citation[]) {
+    setTurns((prev) => [...prev, { role: "answer", text, citations }]);
+    setHistory((prev) => [...prev, { question: q, answer: text }].slice(-3));
+  }
+
+  async function submit(q: string) {
     if (!q.trim() || loading || !data) return;
     setLoading(true);
     setQuery("");
     setTurns((prev) => [...prev, { role: "user", text: q }]);
     const hit = data.qa.find((item) => normalize(item.question) === normalize(q));
-    // Short pause so the flow reads like a search, not an instant lookup.
-    setTimeout(() => {
-      setTurns((prev) => [
-        ...prev,
-        hit ? { role: "answer", text: hit.answer, citations: hit.citations } : { role: "demo", text: d.notRecorded },
-      ]);
+    if (hit) {
+      // Recorded example: instant, doesn't use the visitor's live questions.
+      setTimeout(() => {
+        answered(q, hit.answer, hit.citations);
+        setLoading(false);
+      }, 600);
+      return;
+    }
+    try {
+      const res = await fetch("/api/ask", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ query: q, history }),
+      });
+      const body = await res.json().catch(() => ({}));
+      if (typeof body.remaining === "number") setRemaining(body.remaining);
+      if (res.status === 429) {
+        setTurns((prev) => [...prev, { role: "demo", text: d.notRecorded }]);
+      } else if (!res.ok) {
+        setTurns((prev) => [...prev, { role: "demo", text: body.error ?? "The search failed. Please try again." }]);
+      } else {
+        setData((prev) => (prev ? { ...prev, references: { ...prev.references, ...body.references } } : prev));
+        answered(q, body.answer, body.citations ?? []);
+      }
+    } catch {
+      setTurns((prev) => [...prev, { role: "demo", text: "Network error. Please try again." }]);
+    } finally {
       setLoading(false);
-    }, 600);
+    }
   }
 
   const asked = new Set(turns.filter((turn) => turn.role === "user").map((turn) => normalize(turn.text)));
@@ -116,7 +150,7 @@ export default function ChatClient() {
   return (
     <main className={referenceId ? "chat-page has-reference" : "chat-page"}>
       <div className="demo-banner">
-        Demo — KodiAI, work in progress. Answers were recorded from the real search pipeline for the example questions.
+        Demo — KodiAI, work in progress. Ask up to 5 questions of your own (answered live by the real pipeline); example answers are recorded.
       </div>
       <header className="site">
         <div className="wrap site-nav">
@@ -225,12 +259,13 @@ export default function ChatClient() {
             )}
           </div>
 
+          <div className="quota-note">{loading ? t.searching : d.left(remaining)}</div>
           <div className="chat-input-row">
             <input
               value={query}
               onChange={(e) => setQuery(e.target.value)}
               onKeyDown={(e) => e.key === "Enter" && submit(query)}
-              placeholder="Pyet për kushtet teknike të projektimit (KTP)..."
+              placeholder={lang === "en" ? "Ask about Albania's technical design codes (KTP), in English or Albanian..." : "Pyet për kushtet teknike të projektimit (KTP)..."}
               disabled={loading || !data}
             />
             <button className="btn btn-primary" onClick={() => submit(query)} disabled={loading || !data}>
